@@ -13,10 +13,9 @@
     <link rel="icon" href="https://stephaniestimac.com/imgs/favicon.ico" type="image/png">
 
   </head>
-  <body>
-  <div class="grid--home">
+  <body class="grid--home">
     <header>
-      <h1 class="home"><a class="home-link" href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
+      <h1 class="home">{{ metadata.title }}</h1>
       <ul class="nav">
         {%- for nav in collections.nav | reverse -%}
         <li class="nav-item{% if nav.url == page.url %} nav-item-active{% endif %}"><a href="{{ nav.url | url }}">{{ nav.data.navtitle }}</a></li>
@@ -31,7 +30,6 @@
         {{ content | safe }}
         </div>
     </main>
-    </div>
 
     <footer></footer>
 

@@ -10,6 +10,8 @@
 }
 
 * {
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
@@ -80,7 +82,11 @@ a:visited,
 }
 
 main {
-  padding: 2rem;
+  padding: 1rem;
+  margin: 1rem auto;
+  max-width: 48rem;
+  position: relative;
+  min-height: 100vh;
 }
 
 main :first-child {
@@ -149,7 +155,6 @@ pre {
 
 .home {
   padding: 0 1rem;
-  float: left;
   margin: 1rem 0; /* 16px /16 */
   font-size: 2em; /* 16px /16 */
   line-height: 2.4rem;
@@ -159,16 +164,13 @@ pre {
   text-decoration: none;
 }
 
-.home-link {
-  color: var(--white) !important;
-}
-
 /* Nav */
 .nav {
   padding: 0;
   list-style: none;
   margin-left: 1em;
   text-transform: capitalize;
+  max-width: 10rem;
 }
 
 .nav a,
@@ -186,7 +188,7 @@ pre {
 }
 
 .nav-item-active {
-  font-weight: 700;
+  background-color: #000;
   text-decoration: underline;
 }
 
