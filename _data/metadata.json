@@ -1,16 +1,16 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Stephanie's Design and Technical Musings",
+  "url": "https://blog.stephaniestimac.com",
+  "description": "Design and technical musings of Stephanie Drescher",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Design and technical musings of Stephanie Drescher",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://blog.stephaniestimac.com/feed/feed.xml",
+    "id": "https://blog.stephaniestimac.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Stephanie Drescher",
+    "email": "steph.stimac@gmail.com"
   }
 }
