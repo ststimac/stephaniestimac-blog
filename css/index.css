@@ -301,6 +301,10 @@ a[href].direct-link:focus:visited,
       width: 100%;
   }
 
+  .nav {
+    max-width: 27rem;
+  }
+
   header .nav-item {
     display: inline-block;
   }
