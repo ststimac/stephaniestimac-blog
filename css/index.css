@@ -272,6 +272,20 @@ a[href].direct-link:focus:visited,
   color: #aaa;
 }
 
+.blog-post a {
+  color: #000;
+  font-weight: bold;
+  background: linear-gradient(rgba(119, 0, 231, 0.3), rgba(119, 0, 231, 0.3));
+  background-size: 100% 0.5rem;
+  background-repeat: no-repeat;
+  background-position: left 0 bottom 0;
+  transition: all 0.1s linear 0s;
+  text-decoration: none;
+}
+
+.blog-post a:hover {
+  background-size: 100% 100%;
+}
 
 @media (max-width: 36em) {
 
