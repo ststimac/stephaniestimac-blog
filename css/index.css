@@ -26,7 +26,6 @@ body {
 }
 
 .container {
-  max-width: 48rem;
   margin: 0 auto;
 }
 
@@ -88,7 +87,7 @@ a:visited,
 main {
   padding: 1rem;
   margin: 1rem auto;
-  max-width: 40rem;
+  max-width: 42rem;
   position: relative;
   min-height: 100vh;
 }
@@ -98,7 +97,7 @@ main :first-child {
 }
 
 .blog-post {
-  max-width: 40rem;
+  max-width: 42rem;
 }
 
 .blog-post p {

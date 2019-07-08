@@ -7,6 +7,9 @@ tags:
   - browser life
 layout: layouts/post.njk
 ---
+
+<p class="blog-post__date">8 July 2019</p>
+
 Hello world! I've been blogging for what seems like a very very *very* long time. However, all that blogging over the years has been focused on fashion, lifestyle and travel over on another URL and lately, I've been wanting to dig into more design and front-end focused things and write about them. I have a handful of CSS Grid experiments I did a while ago and didn't write much (read: anything) to go with them and that's just not the way experiments with code should go. 
 
 ## Working on Microsoft Edge and Browser DevTools
