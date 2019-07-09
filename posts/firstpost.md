@@ -14,7 +14,7 @@ Hello world! I've been blogging for what seems like a very very *very* long time
 
 ## Working on Microsoft Edge and Browser DevTools
 
-The Microsoft Edge team has gone through some massive changes over the last year, and I've been through so many reorgs I'm a bit dizzy and disoriented by this point but I get to straddle two separate areas in my worK: design and product. For design, I do work for Developer Experiences, mostly focusing on webhint and the browser developer tools (DevTools). I am a pixel pusher at heart but the other portion of the work I do is in the Program Management org: talking to developers, evangelizing Edge, and overall finding ways to connect with the community. 
+The Microsoft Edge team has gone through some massive changes over the last year, and I've been through so many reorgs I'm a bit dizzy and disoriented by this point but I get to straddle two separate areas in my work: design and product. For design, I do work for Developer Experiences, mostly focusing on webhint and the browser developer tools (DevTools). I am a pixel pusher at heart but the other portion of the work I do is in the Program Management org: talking to developers, evangelizing Edge, and overall finding ways to connect with the community. 
 
 And I love all aspects of my job but when we talk about developers a lot of us tend to focus on those writing JavaScript or other programming languages, but not HTML and CSS which is what I love and like to focus on.
 
