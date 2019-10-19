@@ -15,6 +15,7 @@ I gave my first conference talk at Design It Build It conference in September th
 And while I understood the sentiment, I want to be clear: I didn’t overcome being an introvert in any way but have been on a very long and winding journey since autumn of 2016 that encompasses fundamentally understanding what it means to be introvert and embracing that. 
 
 ![alt: Stephanie speaking at Dibi Conf](../../img/post-3/dibi-me.jpg)
+*Photo: Jim Richardson DiBi organizer*
 
 ## Some background
 
