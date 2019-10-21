@@ -46,7 +46,7 @@ I had already overcame so much, this just felt like the right hill to climb at t
 
 ## The mind of an introvert
 
-I recently learned that self-compassion or self-care can fundamentally re-wire your brain to build self-confidence. Instead of being hard on yourself, talk to yourself like you would a friend. As I practiced my talk, I would stumble and mess up or have to start a slide over...I took care to not be hard on myself. I took care to be kind. I stopped and took a breath and have myself a little self-love.  
+I recently learned that self-compassion or self-care can fundamentally re-wire your brain to build self-confidence. Instead of being hard on yourself, talk to yourself like you would a friend. As I practiced my talk, I would stumble and mess up or have to start a slide over...I took care to not be hard on myself. I took care to be kind. I stopped and took a breath and gave myself a little self-love.  
 
 The first part of being an introvert is accepting you are one and that a fundamental part of surviving as one, is learning what form of self-care you need.  
 
