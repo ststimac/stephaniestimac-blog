@@ -253,6 +253,11 @@ pre {
   font-weight: bold;
 }
 
+.tmpl-home {
+  max-width: 42rem;
+  width: 100%;
+}
+
 .tmpl-home .postlist-link {
   font-size: 1.1875em; /* 19px /16 */
   font-weight: 700;
