@@ -41,7 +41,7 @@ There were 4.6MB of unused code being downloaded on a page whose main and only c
 
 ![alt: webhint.io performance budget hint](../../img/post-4/webhint-perf-budget.png)
 
-According to [webhint's Performance Budget hint](https://webhint.io/scanner), on a 4G network, it will take a staggering 55.3s to load all the resources.
+According to [webhint's Performance Budget hint](https://webhint.io/docs/user-guide/hints/hint-performance-budget/), on a 4G network, it will take a staggering 55.3s to load all the resources.
 
 The results from [web.dev](https://web.dev/) aren't great either. Performance as a category got a zero.  
 
