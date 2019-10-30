@@ -14,7 +14,7 @@ I would say that I live an extremely privileged and comfortable life. The privil
 
 Though to some friends it feels as though I’m really far outside the city, I’m technically a part of the Seattle Metropolitan Area and despite being in a rural area, I’m close enough to Redmond and Bellevue that something like mobile phone and data coverage shouldn’t be an issue. 
 
-These two things were not things I really paid attention to unless the property was so far out that there was no coverage at all. I figured once the internet was installed, I wouldn’t have to worry about spotty coverage. I would have WiFi and it would be fine. 
+These two things were not things I really paid attention to while looking for a home unless the property was so far out that there was no coverage at all. I figured once the internet was installed, I wouldn’t have to worry about spotty coverage. I would have WiFi and it would be fine. 
 
 ## An Unreliable Network
 
