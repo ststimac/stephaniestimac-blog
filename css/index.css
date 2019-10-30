@@ -111,6 +111,15 @@ main :first-child {
   margin-top: 1.2rem;
 }
 
+hr {
+  margin-top: 1.2rem;
+}
+
+.reference {
+  font-size: .8rem;
+  font-style: italic;
+}
+
 pre,
 code {
   font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
