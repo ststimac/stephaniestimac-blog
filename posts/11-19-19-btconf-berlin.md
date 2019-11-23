@@ -1,7 +1,7 @@
 ---
 title: Beyond Tellerrand Berlin 2019
 description: A post on a quick trip to Berlin for btconf19
-date: 2019-10-30
+date: 2019-11-19
 tags:
   - conferences
   - web we want
