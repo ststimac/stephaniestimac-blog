@@ -20,7 +20,7 @@ Despite technical issues with my laptop, for the second event in a row, the sess
 
 As we've started to get the hang of running this community focused session, I've been so thrilled to see folks step up to either present at the event or submit a video detailing their wants for the web. We want everyone to submit their wants for the web, whether they can be at an event or not, but I am absolutely delighted by the presentations we've had at the events. My team and I are more than happy to present on folk's behalf, but only you can know the details and the use cases of the problem you want solved. I really get so much joy seeing how deeply the community has thought about the problems they've encountered. 
 
-Check out the [The Web We Want](https://webwewant.fyi) if you've never heard of it before. It's a cross-browser, community focused initiative where we ask the question: "if could change one thing about the web platform, what would it be?" We then run live pitch sessions at conferences and meetups with a panel of industry experts who discuss each item pitched and then pick their favorite. 
+Check out the [The Web We Want](https://webwewant.fyi) if you've never heard of it before. It's a cross-browser, community focused initiative where we ask the question: "if you could change one thing about the web platform, what would it be?" We then run live pitch sessions at conferences and meetups with a panel of industry experts who discuss each item pitched and then pick their favorite. 
 
 I've been emceeing most of the sessions and it's been a blast for me. If you're interested in having The Web We Want at your meetup or conference, feel free to [reach out on email](mailto:steph.stimac@gmail.com) or on [Twitter](https://twitter.com/seaotta).
 
