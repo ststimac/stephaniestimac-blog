@@ -349,4 +349,9 @@ a[href].direct-link:focus:visited,
     display: inline-block;
   }
 
+  pre {
+    font-size: 10px;
+    max-width: 34rem;
+  }
+
 }
