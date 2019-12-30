@@ -1,7 +1,7 @@
 ---
 title: Building my bullet journal layout with CSS Grid & Subgrid & Flexbox 
 description: A post on a quick trip to Berlin for btconf19
-date: 2019-29-12
+date: 2019-12-29
 tags:
   - css
   - subrgrid
