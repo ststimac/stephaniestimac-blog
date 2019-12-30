@@ -1,5 +1,6 @@
 :root {
   --purple: #7700e7;
+  --lightpurple: #eeecff;
   --darkred: #7F0036;
   --lightgray: #e0e0e0;
   --gray: #C0C0C0;
@@ -124,7 +125,7 @@ pre,
 code {
   font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
   line-height: 1.5;
-  background-color: #eeecff;
+  background-color: var(--lightpurple);
 }
 
 pre {
@@ -144,7 +145,7 @@ pre {
   hyphens: none;
   padding: 1em;
   margin: .5em 0;
-  background-color: #f6f6f6;
+  background-color: var(--lightpurple);
 }
 
 .highlight-line {
