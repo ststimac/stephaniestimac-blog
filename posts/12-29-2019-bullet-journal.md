@@ -21,7 +21,7 @@ Here is what my actual bullet journal looks like, but the bottom half layout can
 
 ![alt: Parent grid layout in Firefox Grid Inspector](../../img/post-6/bullet-journal.jpg)
 
-This layout only has my meal plan section and weekly to-do. From the image below you can see that the layout varies below the daily time tables. 
+This layout only has my meal plan section and weekly to-do. From the image above you can see that the layout varies below the daily time tables. 
 
 ## Defining the grid
 First, I defined the grid layout I wanted for the whole page. There was no real math behind this, I visually assessed and re-adjusted the grid based on the content I knew I’d be filling in and then went from there.  
