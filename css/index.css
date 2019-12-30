@@ -133,7 +133,7 @@ pre {
   line-height: 1.375;
   direction: ltr;
   text-align: left;
-  white-space: pre;
+  white-space: pre-wrap;
   word-spacing: normal;
   word-break: normal;
   -moz-tab-size: 2;
@@ -350,7 +350,7 @@ a[href].direct-link:focus:visited,
   }
 
   pre {
-    font-size: 10px;
+    font-size: 12px;
     max-width: 34rem;
   }
 
