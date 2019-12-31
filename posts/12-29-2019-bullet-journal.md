@@ -61,8 +61,8 @@ There are lots of resources available on auto-fill vs. auto-fit. Sara Soueidan a
 .day-grid { 
     display: grid; 
     grid-gap: 1rem; 
-    grid-template-columns: subgrid; 
-    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr)); 
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+    grid-template-columns: subgrid;
     grid-column-start: 1; 
     grid-column-end: 8; 
     grid-row-start: 1; 
@@ -94,8 +94,8 @@ Each row is representative of an hour (though in my actual bullet journal, each 
 ```
 .day-grid-hour { 
     display: grid; 
-    grid-template-columns: subgrid; 
-    grid-template-columns: 2.5rem 1rem 1fr; 
+    grid-template-columns: 2.5rem 1rem 1fr;
+    grid-template-columns: subgrid;
     grid-column: 1 / 4; 
 }
 ```
