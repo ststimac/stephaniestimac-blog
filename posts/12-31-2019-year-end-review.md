@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-This isn’t going to be a technical or necessarily professional focused recap. A lot happened this year and I’ve been trying to capture it in words, though I don’t think this post will fully capture the pace and craziness of this year. It’s a bit jumbled and a bit stream of conscious at times. So strap in. 
+This isn’t going to be a technical or necessarily professional focused recap. A lot happened this year and I’ve been trying to capture it in words, though I don’t think this post will fully capture the pace and craziness of this year. It’s a bit jumbled and a bit stream of consciousness at times. So strap in. 
 
 ![alt: Me in Berlin, hands in the air](../../img/post-7/berlin.jpg)
 *Berlin, May 2019, right before it started pouring rain*
