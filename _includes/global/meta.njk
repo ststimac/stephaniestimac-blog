@@ -11,6 +11,10 @@
   {% set pageDesc = metaDesc %}
 {% endif %}
 
+{% if socialImage %}
+  {% set faviconPath = socialImage %}
+{% endif %}
+
 <title>{{ pageTitle }}</title>
 <link rel="canonical" href="{{ currentUrl }}" />
 
