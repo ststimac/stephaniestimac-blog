@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-Last year I took a mindfulness course led by a former team lead who had switched careers at Microsoft. We had four in-person all day sessions and at the end of each session we would set intentions for the next few months between classes. Intentions are different than goals, as goals tend to be a fixed outcome and intentions focus on the present moment and don't necessarily have a set plan like a goal. So even though some of these have fixed outcomes, I really intend to focus on the intent and how I'm feeling in the moment about each of things. 
+Last year I took a mindfulness course led by a former team lead who had switched careers at Microsoft. We had four in-person all day sessions and at the end of each session we would set intentions for the next few months between classes. Intentions are different than goals, as goals tend to be a fixed outcome and intentions focus on the present moment and don't necessarily have a set plan like a goal. So even though some of these have fixed outcomes, I really intend to focus on the intent and how I'm feeling in the moment about each of these things. 
 
 One of the things I found with focusing on intentions is that I tended to be much kinder to myself if I hadn't been as diligent about my intentions. And for 2020, being kind to myself is a big focus. 
 
