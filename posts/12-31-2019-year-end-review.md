@@ -95,11 +95,10 @@ Why not join your friends and get into mountain biking?
 
 Why not plan another international girl’s trip? This time maybe more wine, more beach and less winter weather though.  
 
-Why not go to Brussels the next time you’re invited? (There’s a story there that I’ll perhaps share over drinks one day if you ask very nicely 😇) 
-
 Why not do the things and revisit the dreams you forgot about long ago? 
 
 Why _not_? 
+
 
 ## This year
 
