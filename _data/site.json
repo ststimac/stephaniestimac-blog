@@ -1,0 +1,10 @@
+{
+  "name": "Stephanie Stimac's Blog",
+  "shortDesc": "Stephanie's Design and Technical Musings",
+  "url": "https://blog.stephaniestimac.com",
+  "authorEmail": "steph.stimac@gmail.com",
+  "authorHandle": "@seaotta",
+  "authorName": "Stephanie Stimac",
+  "enableThirdPartyComments": false,
+  "faviconPath": "/img/favicon.ico"
+}
