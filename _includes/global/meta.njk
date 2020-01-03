@@ -19,13 +19,8 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ currentUrl }}" />
 
-{% if site.authorHandle %}
-  <meta name="twitter:creator" content="@{{ site.authorHandle | replace('@', '') }}" />
-{% endif %}
-
 {% if metaDesc %}
   <meta name="description" content="{{ metaDesc }}" />
-  <meta name="twitter:description" content="{{ metaDesc }}" />
   <meta property="og:description" content="{{ metaDesc }}" />
 {% endif %}
 
@@ -35,9 +30,9 @@
   <meta name="twitter:image:alt" content="Page image for {{ site.name }}" />
 {% endif %}
 
-<!-- Twitter Open Graph meta -->
-<meta name="twitter:card" content="{% if description %}{{ description }}{% else %}{{ site.description }}{% endif %}">
-<meta name="twitter:url" content="{{ site.url}}{{ page.url }}">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@seaotta" />
 <meta name="twitter:title" content="{% if title %}{{ title }}{% else %}{{ site.title }}{% endif %}">
 <meta name="twitter:description" content="{% if description %}{{ description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:url" content="{{ site.url}}{{ page.url }}">
 <meta name="twitter:image" content="/img/favicon.ico" />
