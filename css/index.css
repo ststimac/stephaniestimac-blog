@@ -59,7 +59,9 @@ h1 {
   font-size: 1.8rem;
 }
 
-h2 {
+* + h1,
+* + h2,
+* + h3 {
   margin-top: 2.4rem;
 }
 
@@ -109,7 +111,7 @@ main :first-child {
 }
 
 * + p {
-  margin-top: 1.2rem;
+  margin-top: 2.4rem;
 }
 
 hr {
