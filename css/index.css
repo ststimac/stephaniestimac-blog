@@ -5,6 +5,7 @@
   --lightgray: #e0e0e0;
   --gray: #C0C0C0;
   --darkgray: #333;
+  --medgray: #656465;
   --navy: #17050F;
   --blue: #082840;
   --white: #fff;
@@ -63,6 +64,13 @@ h1 {
 * + h2,
 * + h3 {
   margin-top: 2.4rem;
+}
+
+blockquote {
+  border-left: 6px solid var(--lightpurple);
+  color: var(--medgray);
+  font-size: .9rem;
+  padding-left: 1.2rem;
 }
 
 p:last-child {
