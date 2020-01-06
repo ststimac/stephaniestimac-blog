@@ -13,7 +13,7 @@ Full disclosure, the [webhint](https://webhint.io) project is near and dear to m
 
 But that's not why I'm writing this post, I want to highlight just a few of the things that the webhint browser extension checks for when you scan a website from your DevTools. 
 
-You can download the extension for DevTools Browser Extension for [Chrome](https://chrome.google.com/webstore/detail/webhint/gccemnpihkbgkdmoogenkbkckppadcag), [Edge](https://microsoftedge.microsoft.com/addons/detail/mlgfbihcfnkaenjpdcngdnhcpkdmcdee) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/webhint/). 
+You can download the DevTools Browser Extension for [Chrome](https://chrome.google.com/webstore/detail/webhint/gccemnpihkbgkdmoogenkbkckppadcag), [Edge](https://microsoftedge.microsoft.com/addons/detail/mlgfbihcfnkaenjpdcngdnhcpkdmcdee) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/webhint/). 
 
 If you install the extension and don't immediately see the 'Hints' panel, check your overflow menu, circled here:
 
