@@ -61,6 +61,14 @@ h1 {
   line-height: 3.5rem;
 }
 
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.6rem;
+}
+
 * + h1,
 * + h2,
 * + h3 {
@@ -330,6 +338,15 @@ a[href].direct-link:focus:visited,
 
 .blog-post a:hover {
   background-size: 100% 100%;
+}
+
+.blog-post ul li a {
+  color: var(--purple);
+  background: none;
+}
+
+.blog-post ul li a:hover {
+  text-decoration: underline;
 }
 
 .codepen {
