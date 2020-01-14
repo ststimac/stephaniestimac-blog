@@ -7,7 +7,7 @@ tags:
   - web platform
   - web we want
 layout: layouts/post.njk
-permalink: posts/2020/01/building-the-web-we-want/index.html
+permalink: posts/2020/01/pushing-the-web-platform-forward/index.html
 ---
 
 <p class="blog-post__date">14 January 2020</p>
