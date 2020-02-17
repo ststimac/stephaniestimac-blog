@@ -2,7 +2,7 @@
 title: Inspiring high school students with HTML and CSS
 description: I visited my high school, Gonzaga Prep, to talk to the students about different career paths in tech.
 author: Stephanie Stimac
-date: 2020-01-18
+date: 2020-02-17
 tags:
   - careers
   - education
