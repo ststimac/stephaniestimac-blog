@@ -1,6 +1,7 @@
 :root {
   --purple: #7700e7;
   --lightpurple: #eeecff;
+  --darkpurple: #3e0079;
   --darkred: #7F0036;
   --lightgray: #e0e0e0;
   --gray: #C0C0C0;
@@ -105,6 +106,10 @@ p,
 a, 
 .postlist-item a {
   color: var(--purple);
+}
+
+.postlist-item a:hover {
+  color: var(--darkpurple);
 }
 
 a:visited,
@@ -358,6 +363,71 @@ a[href].direct-link:focus:visited,
   margin: 0 0 1.2rem 0;
 }
 
+.carbon-ads {
+  margin-top: 2rem;
+}
+
+/* Ads */
+
+#carbonads {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu,
+  Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#carbonads {
+  display: flex;
+  max-width: 330px;
+  background-color: hsl(0, 0%, 98%);
+  box-shadow: 0 1px 4px 1px hsla(0, 0%, 0%, .1);
+}
+
+#carbonads a {
+  text-decoration: none;
+}
+
+#carbonads a:hover {
+  color: #17050F ;
+}
+
+#carbonads span {
+  position: relative;
+  display: block;
+  overflow: hidden;
+}
+
+#carbonads .carbon-wrap {
+  display: flex;
+}
+
+.carbon-img {
+  display: block;
+  margin: 0;
+  line-height: 1;
+}
+
+.carbon-img img {
+  display: block;
+}
+
+.carbon-text {
+  font-size: 13px;
+  padding: 10px;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.carbon-poweredby {
+  display: block;
+  padding: 8px 10px;
+  background: repeating-linear-gradient(-45deg, transparent, transparent 5px, hsla(0, 0%, 0%, .025) 5px, hsla(0, 0%, 0%, .025) 10px) hsla(203, 11%, 95%, .4);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+  font-weight: 600;
+  font-size: 9px;
+  line-height: 1;
+}
+
 @media (max-width: 42em) {
 
   .grid--home {
@@ -381,6 +451,10 @@ a[href].direct-link:focus:visited,
   pre {
     font-size: 12px;
     max-width: 34rem;
+  }
+
+  #carbonads {
+    display: none;
   }
 
 }
