@@ -377,12 +377,14 @@ a[href].direct-link:focus:visited,
 #carbonads {
   display: flex;
   max-width: 330px;
+  min-width: 130px;
   background-color: hsl(0, 0%, 98%);
   box-shadow: 0 1px 4px 1px hsla(0, 0%, 0%, .1);
 }
 
 #carbonads a {
   text-decoration: none;
+  text-align: center;
 }
 
 #carbonads a:hover {
@@ -393,10 +395,10 @@ a[href].direct-link:focus:visited,
   position: relative;
   display: block;
   overflow: hidden;
+  text-align: center;
 }
 
 #carbonads .carbon-wrap {
-  display: flex;
 }
 
 .carbon-img {
@@ -407,9 +409,13 @@ a[href].direct-link:focus:visited,
 
 .carbon-img img {
   display: block;
+  min-width: 130px;
+  width: 100%;
+  margin: 0 auto;
 }
 
 .carbon-text {
+  display: block;
   font-size: 13px;
   padding: 10px;
   line-height: 1.5;
