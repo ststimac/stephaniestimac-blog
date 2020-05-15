@@ -87,7 +87,8 @@ p:last-child {
   margin-bottom: 0;
 }
 
-.blog-post ul {
+.blog-post ul,
+.blog-post ol {
   margin: 1.2rem 0 1.2rem 2.4rem;
 }
 
@@ -96,6 +97,10 @@ p,
 img {
   max-width: 40rem;
   width: 100%;
+}
+
+img {
+  margin-top: 1.2rem;
 }
 
 p,
@@ -192,6 +197,7 @@ pre {
   color: #b0b0b0;
   background-color: #222;
 }
+
 .highlight-line-active {
   background-color: #444;
   background-color: hsla(0, 0%, 27%, .8);
@@ -286,7 +292,7 @@ pre {
 
 .tmpl-home .postlist-link {
   font-size: 1.1875em; /* 19px /16 */
-  font-weight: 700;
+  font-weight: 600;
 }
 
 
