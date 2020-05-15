@@ -14,7 +14,7 @@ I would say that I live an extremely privileged and comfortable life. The privil
 
 Though to some friends it feels as though I’m really far outside the city, I’m technically a part of the Seattle Metropolitan Area and despite being in a rural area, I’m close enough to Redmond and Bellevue that something like mobile phone and data coverage shouldn’t be an issue. 
 
-These two things were not things I really paid attention to while looking for a home unless the property was so far out that there was no coverage at all. I figured once the internet was installed, I wouldn’t have to worry about spotty coverage. I would have WiFi and it would be fine. 
+These two things were not things I really paid attention to while looking for a place to live unless the property was so far out that there was no coverage at all. I figured once the internet was installed, I wouldn’t have to worry about spotty coverage. I would have WiFi and it would be fine. 
 
 ## An Unreliable Network
 
@@ -26,7 +26,7 @@ I refreshed the page multiple times while my phone said I had data coverage and 
 
 In the morning, the power was still out and it was clear this has been a devastating wind storm. Electrical fires were being started by downed power lines, trees were blocking two out of three exits out of the neighborhood.  
 
-Since I didn’t have a generator for my home, I was without power and internet for nearly 24 hours. Many updates were being posted to Facebook and Twitter but those struggled to load just as the PSE Outage listing page did. I couldn’t access the information I needed about repairs or status of the repairs. It was frustrating and isolating. 
+Since I didn’t have a generator, I was without power and internet for nearly 24 hours. Many updates were being posted to Facebook and Twitter but those struggled to load just as the PSE Outage listing page did. I couldn’t access the information I needed about repairs or status of the repairs. It was frustrating and isolating. 
 
 
 ## Unused JavaScript
