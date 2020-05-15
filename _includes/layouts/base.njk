@@ -12,26 +12,30 @@
     <link rel="icon" href="https://stephaniestimac.com/imgs/favicon.ico" type="image/png">
 
   </head>
-  <body class="grid--home">
+  <body>
     <header>
       <h1 class="home">{{ metadata.title }}</h1>
-      <ul class="nav">
-        {%- for nav in collections.nav | reverse -%}
-        <li class="nav-item{% if nav.url == page.url %} nav-item-active{% endif %}"><a href="{{ nav.url | url }}">{{ nav.data.navtitle }}</a></li>
-        {%- endfor -%}
-        <li class="nav-item"><a href="https://stephaniestimac.com/about">About</a></li>
-        <li class="nav-item"><a href="https://stephaniestimac.com">Portfolio</a></li>
-      </ul>
-      <div class="carbon-ads">
-      <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7ICKQM&placement=stephaniestimaccom" id="_carbonads_js"></script>
-      </div>
     </header>
-
-    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
-      <div class="container">
-        {{ content | safe }}
+    <div class="container grid--home">
+      <div class="sidebar">
+        <nav>
+          <ul class="nav">
+            {%- for nav in collections.nav | reverse -%}
+            <li class="nav-item{% if nav.url == page.url %} nav-item-active{% endif %}"><a href="{{ nav.url | url }}">{{ nav.data.navtitle }}</a></li>
+            {%- endfor -%}
+            <li class="nav-item"><a href="https://stephaniestimac.com/about">About</a></li>
+            <li class="nav-item"><a href="https://stephaniestimac.com">Portfolio</a></li>
+            <li class="nav-item"><a href="https://twitter.com/seaotta">Twitter</a></li>
+          </ul>
+        </nav>
+        <div class="carbon-ads">
+        <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7ICKQM&placement=stephaniestimaccom" id="_carbonads_js"></script>
         </div>
-    </main>
+      </div>
+        <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+            {{ content | safe }}
+        </main>
+    </div>
 
     <footer></footer>
 
