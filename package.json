@@ -3,7 +3,7 @@
   "version": "5.0.0",
   "description": "The technical and design blog of Stephanie Stimac",
   "scripts": {
-    "build": "eleventy",
+    "build": "npx eleventy",
     "watch": "npx eleventy --watch",
     "debug": "DEBUG=* npx eleventy"
   },
