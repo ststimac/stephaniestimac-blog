@@ -1,4 +1,3 @@
 [build]
   publish = "_site"
-  command = "DEBUG=* eleventy"
-  build = "npx eleventy"
+  command = "npx eleventy"
