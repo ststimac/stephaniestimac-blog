@@ -1,5 +1,5 @@
 {
-  "name": "Stephanie Stimac",
+  "name": "stephanie-stimac",
   "version": "5.0.0",
   "description": "The technical and design blog of Stephanie Stimac",
   "scripts": {
@@ -12,7 +12,7 @@
     "url": "git://github.com/ststimac/stephaniestimac-blog.git"
   },
   "author": {
-    "name": "Stephanie Stimac",
+    "name": "stephanie-stimac",
     "email": "steph.stimac@gmail.com",
     "url": "https://stephaniestimac.com"
   },
