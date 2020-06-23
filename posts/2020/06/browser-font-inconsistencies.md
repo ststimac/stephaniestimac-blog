@@ -103,4 +103,6 @@ And the final question you may be wondering is this:
 
 Which way is actually right? Firefox/Edge/Chrome or Safari?
 
-And my answer is: I don't actually know. Multiple browsers behaving the same isn't necessarily indicative of the correct implementation so I suspect I will be trying to dive into browser behavior to figure out the correct implementation at a later date. 
+And my answer is: I don't actually know. 
+
+Multiple browsers behaving the same isn't necessarily indicative of the correct implementation so I suspect I will be trying to dive into browser behavior to figure out the correct implementation at a later date. 
