@@ -58,7 +58,7 @@ h1 {
 }
 ```
 
-In the computed tab, Edge, Chrome and Firefox are all showing font-weight: bold to be computed to a font-weight of 700, whereas Safari's computed font-weight doesn't have a numerical value, it just remains computed as "bold." But this still doesn't explain much.
+In the computed tab, Edge, Chrome and Firefox are all showing `font-weight: bold` to be computed to a font-weight of 700, whereas Safari's computed font-weight doesn't have a numerical value, it just remains computed as "bold." But this still doesn't explain much.
 
 In fact somewhat ironically, Safari doesn't have `font-weight: 700` defined anywhere in stylesheets that I can see in the DevTools but it *is* rendering `h1`s in the 700 font-weight for the typeface Poppins. 
 
@@ -103,4 +103,6 @@ And the final question you may be wondering is this:
 
 Which way is actually right? Firefox/Edge/Chrome or Safari?
 
-And my answer is: I don't actually know. Multiple browsers behaving the same isn't necessarily indicative of the correct implementation so I suspect I will be trying to dive into browser behavior to figure out the correct implementation at a later date. 
+And my answer is: I don't actually know. 
+
+Multiple browsers behaving the same isn't necessarily indicative of the correct implementation so I suspect I will be trying to dive into browser behavior to figure out the correct implementation at a later date. 
