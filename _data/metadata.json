@@ -1,16 +1,16 @@
 {
   "title": "Stephanie's Design and Technical Musings",
   "url": "https://blog.stephaniestimac.com",
-  "description": "Design and technical musings of Stephanie Drescher",
+  "description": "Design and technical musings of Stephanie Stimac",
   "feed": {
-    "subtitle": "Design and technical musings of Stephanie Drescher",
+    "subtitle": "Design and technical musings of Stephanie Stimac",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "url": "https://blog.stephaniestimac.com/feed/feed.xml",
     "id": "https://blog.stephaniestimac.com/"
   },
   "author": {
-    "name": "Stephanie Drescher",
+    "name": "Stephanie Stimac",
     "email": "steph.stimac@gmail.com"
   }
 }
