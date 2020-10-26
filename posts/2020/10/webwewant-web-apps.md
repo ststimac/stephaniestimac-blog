@@ -3,8 +3,8 @@ title: Web We Want Web Apps Survey Results
 description: The intial results from a validation survey on the Web App submissions to Web We Want
 date: 2020-10-05
 tags:
-  - Web We Want
-  - Standards
+  - web we want
+  - standards
 layout: layouts/post.njk
 permalink: posts/2020/10/webwewant-web-apps/index.html
 ---
