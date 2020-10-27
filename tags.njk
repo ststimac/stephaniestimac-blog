@@ -10,12 +10,12 @@ pagination:
     - posts
     - tagList
   addAllPagesToCollections: true
-layout: layouts/base.njk
+layout: /layouts/base.njk
 eleventyComputed:
   title: Tagged “{{ tag }}”
 permalink: /tags/{{ tag }}/
 ---
-<h1>Tagged “{{ tag }}”</h1>
+<h1>{{ title }}</h1>
 
 {% set postslist = collections[ tag ] %}
 {% include "postslist.njk" %}
