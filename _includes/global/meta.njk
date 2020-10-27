@@ -1,4 +1,4 @@
-{% set pageTitle = {{ title }} + ' - ' + site.name %}
+{% set pageTitle = title + ' - ' + site.name %}
 {% set pageDesc = '' %}
 {% set siteTitle = site.name %}
 {% set currentUrl = site.url + page.url %}
@@ -11,7 +11,7 @@
   {% set pageDesc = metaDesc %}
 {% endif %}
 
-<title>{{ title + ' - ' + site.name or metadata.title + ' - ' + site.name }}</title>
+<title>{{ pageTitle + ' - ' + site.name or metadata.pageTitle + ' - ' + site.name }}</title>
 <link rel="canonical" href="{{ currentUrl }}" />
 
 <meta property="og:site_name" content="{{ siteTitle }}" />
