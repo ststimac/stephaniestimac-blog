@@ -388,6 +388,11 @@ a[href].direct-link:focus:visited,
   margin-top: 2rem;
 }
 
+/* Tag Page */
+
+.tag-group {
+margin-top: 2.4rem;
+
 /* Ads */
 
 #carbonads {
