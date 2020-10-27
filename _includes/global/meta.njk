@@ -10,7 +10,7 @@
   {% set pageDesc = metaDesc %}
 {% endif %}
 
-<title>{{ title + ' - ' + site.name }}</title>
+<title>{{ title or metadata.title }}</title>
 <link rel="canonical" href="{{ currentUrl }}" />
 
 <meta property="og:site_name" content="{{ siteTitle }}" />
