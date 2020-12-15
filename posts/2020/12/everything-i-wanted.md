@@ -1,5 +1,5 @@
 ---
-title: 2020: Everything I wanted
+title: Everything I wanted
 description: All the things that 2020 gave me
 date: 2020-12-15
 tags:
