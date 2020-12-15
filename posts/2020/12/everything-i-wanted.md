@@ -22,7 +22,7 @@ I counted up all the travel, personal and conference-wise that 2020 had in store
 
 I escaped to Newcastle for Frontend NE at the start of March right as a Microsoft travel ban went into place and when I returned home it was straight into work from home because of COVID. 
 
-Everything on my list was postponed or cancelled. Not just my talks but all my (!https://webwewant.fyi)[Web We Want] sessions too. 
+Everything on my list was postponed or cancelled. Not just my talks but all my [https://webwewant.fyi](Web We Want) sessions too. 
 
 My brother's graduation from med school was cancelled. I was supposed to go to the Scottish Highlands on a remote little soul-finding retreat for myself...obviously cancelled (well, postponed). Bass Coast Festival in July was cancelled. 
 
@@ -34,7 +34,7 @@ My brother's graduation from med school was cancelled. I was supposed to go to t
 
 But I have so many things I did accomplish this year professionally to be proud of.
 
-I'm published in (!https://css-tricks.com/building-the-web-we-want/)[CSS Tricks] and (!https://www.smashingmagazine.com/2020/11/standardizing-select-native-html-form-controls/)[Smashing Magazine]. 
+I'm published in [https://css-tricks.com/building-the-web-we-want/](CSS Tricks) and [https://www.smashingmagazine.com/2020/11/standardizing-select-native-html-form-controls/](Smashing Magazine). 
 I've been invited to record 6 podcasts. 
 I've given 7 talks.
 I was invited to speak at 3 events that weren't on the original calendar. 
