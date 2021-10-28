@@ -27,7 +27,7 @@ But I'm reminded how far I've come. I staunchly swore, up and down and side to s
 
 I've found myself with an abundance of time-sensitive deliverables the past few weeks...which I find uber stressful (on top of dealing with poor mental health because we are still in a pandemic and I am still working from home alone). And yet this event, which came to me a few days into October, has done nothing but excite me and keep me going. 
 
-I don't know when the next in-person event I'll get to speak at will be. Spring 2021? Nothing's confirmed right now and as of right now, this is my last talk of the year. (But that'll probably change. [Get in touch](mailto:steph.stimac@gmail.com) if you're running an event, virtual or in-person.)
+I don't know when the next in-person event I'll get to speak at will be. Spring 2022? Nothing's confirmed right now and as of right now, this is my last talk of the year. (But that'll probably change. [Get in touch](mailto:steph.stimac@gmail.com) if you're running an event, virtual or in-person.)
 
 All I do know is I have waited for this moment for a long time. For 20 months to be precise. 20 months that oddly feel like a decade and a blink of an eye. I get to share a stage with people I deeply respect and I get to see friends I haven't seen in person in a long while (or ever met in person, just know from Twitter...and Andy if you're reading this we're getting a dirty kebab.)
 
