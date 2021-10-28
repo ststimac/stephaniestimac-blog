@@ -14,7 +14,7 @@ There isn't a day that goes by that I feel extremely privileged to do what I get
 
 Despite technical issues with my laptop, for the second event in a row, the session went well and there was great conversation from our panel of judges. 
 
-![alt: Beyond Tellerrand stage](../../img/post-5/IMG_4426.jpg)
+![alt: Beyond Tellerrand stage](../../../img/post-5/IMG_4426.jpg)
 
 ## The Web We Want
 
