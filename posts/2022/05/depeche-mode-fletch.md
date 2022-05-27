@@ -17,7 +17,7 @@ The 80s music had stuck with me and I asked if he could recommend some music. "Y
 
 On the drive home one night, I popped _Music for the Masses_ in to my car's cassette player and that was it. It was the end and the beginning.
 
-I was hooked. I bought every album I could. I'd even go onto buy vinyl despite not owning a record player. I just wanted everything Depeche Mode.
+I was hooked. I bought every album I could. I'd even go on to buy vinyl despite not owning a record player. I just wanted everything Depeche Mode.
 
 When they released a new album and toured in 2005/2006, my dad picked me up from school early, drove us across the state to Seattle for the concert, then drove us back home so I could be in class the next morning.  
 
@@ -39,6 +39,6 @@ I was telling my dad this past weekend, "I need Depeche Mode to tour again!" Hun
 
 I always sort of wondered what this moment would be like, rather morbidly, telling myself, "They are _old_, and there will come a time when there won't be another Depeche Mode concert to go to." 
 
-While absolutely thankful I got to see the 3 of them live three times...more than my high school self could have ever imagined...I'm gutted. The band was a way to bond with my dad and my brother. Their influence runs deep in my life. They're in my blood. 
+While absolutely thankful I got to see the 3 of them live three times...more than my high school self could have ever imagined...I'm gutted. The band was a way to bond with my dad and my brother. Their influence runs deep in my life. They're in my blood. And now it can't help but feel like the Depeche Mode that was...that era has ended. 
 
 RIP Fletch. 
