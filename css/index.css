@@ -229,7 +229,10 @@ pre {
 .home {
   font-size: 1.6rem; /* 16px /16 */
   line-height: 2.4rem;
-  margin: 1rem 0; /* 16px /16 */
+  max-width: 64rem;
+  width: 100%;
+  margin: 0 auto;
+  padding: 1rem 2rem;
 }
 
 .home :link:not(:hover) {
