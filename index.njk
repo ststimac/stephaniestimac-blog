@@ -4,11 +4,13 @@ title: Home
 tags:
   - nav
 navtitle: Blog Home
+pagination:
+  data: collections.posts
+  size: 15
+  reverse: true
+  alias: postslist
 ---
 
-<h1>Latest 15 Posts</h1>
-
-{% set postslist = collections.posts | head(-15) %}
 {% include "postslist.njk" %}
 
-<!-- <p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p> -->
+{% include "pagination.njk" %}
