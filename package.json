@@ -3,9 +3,10 @@
   "version": "5.0.0",
   "description": "The technical and design blog of Stephanie Stimac",
   "scripts": {
-    "build": "npx eleventy",
-    "watch": "npx eleventy --watch",
-    "debug": "DEBUG=* npx eleventy"
+    "dev": "npx @11ty/eleventy --serve --port=2022",
+    "build": "npx @11ty/eleventy",
+    "watch": "npx @11ty/eleventy --watch",
+    "debug": "DEBUG=* npx @11ty/eleventy"
   },
   "repository": {
     "type": "git",
@@ -22,9 +23,9 @@
   },
   "homepage": "https://github.com/11ty/eleventy-base-blog#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0",
-    "@11ty/eleventy-plugin-rss": "^1.0.7",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1"
+    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^4.1.0"
   },
   "dependencies": {
     "luxon": "^1.23.0",
