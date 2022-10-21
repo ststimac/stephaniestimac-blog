@@ -21,7 +21,7 @@
 
 html,
 body {
-  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  font: 100%/1.5 'Open Sans', Arial, Helvetica, sans-serif;
   padding: 0;
   margin: 0;
   color: var(--darkgray);
@@ -30,8 +30,9 @@ body {
 
 .grid--home {
   display: grid;
-  grid-template-columns: minmax(16em, 1fr) 3fr;
+  grid-template-columns: minmax(8em, 12em) minmax(28em, 3fr);
   grid-template-rows: minmax(100vh, 1fr);
+  grid-gap: 1rem;
 }
 
 .container {
@@ -42,7 +43,8 @@ body {
 }
 
 header {
-  padding: 1rem 2rem;
+  padding: 1rem 0;
+  margin-bottom: 1.2rem;
   background-color: var(--purple);
   color: var(--white);
 }
@@ -57,15 +59,17 @@ h4,
 
 h1 {
   font-size: 3.4rem;
-  line-height: 3.8rem;
+  line-height: 1.25;
 }
 
 h2 {
   font-size: 2rem;
+  line-height: 1.25;
 }
 
 h3 {
   font-size: 1.6rem;
+  line-height: 1.25;
 }
 
 h4 {
@@ -101,7 +105,9 @@ p:last-child {
   margin: 1.2rem 0 1.2rem 2.4rem;
 }
 
-
+.blog-post {
+  max-width: 38rem;
+}
 
 p,
 .tmpl-post li,
@@ -134,8 +140,7 @@ a:visited,
 }
 
 main {
-  margin: 1rem auto;
-  padding: 0 3rem;
+  padding: 0;
   position: relative;
   min-height: 100vh;
 }
@@ -229,10 +234,6 @@ pre {
 .home {
   font-size: 1.6rem; /* 16px /16 */
   line-height: 2.4rem;
-  max-width: 64rem;
-  width: 100%;
-  margin: 0 auto;
-  padding: 1rem 2rem;
 }
 
 .home :link:not(:hover) {
@@ -312,6 +313,32 @@ pre {
   font-size: 1.1875em; /* 19px /16 */
   font-weight: 600;
 }
+
+/* Table */
+
+table {
+  border-collapse: collapse;
+  margin-top: 1.2rem;
+}
+
+th, td {
+  border: 1px solid #666;
+  padding: .4rem;
+}
+
+thead {
+    background-color: hsl(271deg 70% 90%);
+}
+
+th {
+  width: 33%;
+}
+
+td {
+  font-size: .8rem;
+  vertical-align: top;
+}
+
 
 
 /* Tags */
@@ -481,6 +508,7 @@ a[href].direct-link:focus:visited,
   display: block;
   overflow: hidden;
   text-align: center;
+  width: 100%;
 }
 
 #carbonads .carbon-wrap {
@@ -524,6 +552,10 @@ a[href].direct-link:focus:visited,
   .grid--home {
       display: flex;
       flex-wrap: wrap;
+  }
+
+  h1 {
+    font-size: 2rem;
   }
 
   header {

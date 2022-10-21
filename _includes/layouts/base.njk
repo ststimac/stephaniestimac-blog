@@ -9,12 +9,13 @@
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,600" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.typekit.net/njd7atr.css">
     <link rel="icon" href="https://stephaniestimac.com/imgs/favicon.ico" type="image/png">
 
   </head>
   <body>
     <header>
-      <h1 class="home">{{ metadata.title }}</h1>
+      <h1 class="home container">{{ metadata.title }}</h1>
     </header>
     <div class="container grid--home">
       <div class="sidebar">
@@ -29,9 +30,6 @@
             <li class="nav-item"><a href="https://www.manning.com/books/design-for-developers?utm_source=stimac&utm_medium=affiliate&utm_campaign=book_stimac_design_4_19_22&a_aid=stimac&a_bid=5f6ba095">Buy my book!</a></li>
           </ul>
         </nav>
-        <div class="carbon-ads">
-        <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7ICKQM&placement=stephaniestimaccom" id="_carbonads_js"></script>
-        </div>
       </div>
         <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
             {{ content | safe }}
