@@ -108,11 +108,6 @@ hr {
   margin-bottom: 1.2rem;
 }
 
-p a:last-child {
-  display: block;
-  margin-top: 2.4rem;
-}
-
 blockquote {
   border-left: 6px solid var(--lightpurple);
   color: var(--medgray);
