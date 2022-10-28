@@ -89,6 +89,30 @@ h2 + h3
   margin-top: 1.2rem;
 }
 
+h3 + h4 {
+  margin-top: .6rem;
+}
+
+h1 + p,
+h2 + p,
+h3 + p {
+  margin-top: 1.2rem;
+}
+
+h4 + p {
+  margin-top: .2rem;
+}
+
+p,
+hr {
+  margin-bottom: 1.2rem;
+}
+
+p a:last-child {
+  display: block;
+  margin-top: 2.4rem;
+}
+
 blockquote {
   border-left: 6px solid var(--lightpurple);
   color: var(--medgray);
@@ -96,13 +120,13 @@ blockquote {
   padding-left: 1.2rem;
 }
 
-p:last-child {
-  margin-bottom: 0;
-}
-
 .blog-post ul,
 .blog-post ol {
   margin: 1.2rem 0 1.2rem 2.4rem;
+}
+
+.blog-post h4 + ul {
+  margin-top: .2rem;
 }
 
 .blog-post {
@@ -153,13 +177,12 @@ main :first-child {
   margin: 1rem 0;
 }
 
-.blog-post p {
-  margin-top: 1.2rem;
+
+.blogpost h4 p {
+  margin-top: .6rem;
 }
 
-* + p {
-  margin-top: 2.4rem;
-}
+
 
 hr {
   margin-top: 1.2rem;
