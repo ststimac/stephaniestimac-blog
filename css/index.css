@@ -108,6 +108,7 @@ hr {
   margin-bottom: 1.2rem;
 }
 
+
 blockquote {
   border-left: 6px solid var(--lightpurple);
   color: var(--medgray);
@@ -337,6 +338,7 @@ pre {
 table {
   border-collapse: collapse;
   margin-top: 1.2rem;
+  margin-bottom: 1.2rem;
 }
 
 th, td {
