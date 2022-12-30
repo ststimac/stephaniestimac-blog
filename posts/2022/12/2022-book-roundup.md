@@ -1,5 +1,5 @@
 ---
-title: 2022 
+title: 2022 Book Roundup
 description: A roundup of books I read in 2022
 date: 2022-12-29
 tags:
