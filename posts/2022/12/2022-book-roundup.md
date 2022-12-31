@@ -44,3 +44,5 @@ Here's the rest of my list. A few were reads to just get me in the habit of read
 - Shield Maiden: Under the Hunter's Moon 
 
 If you're interested in reading any of these books, you can find the full list [here](https://www.amazon.com/shop/seaotta/list/150YV1SHFZ3O3?ref_=aip_sf_list_spv_ofs_mixed_d).
+
+* _I am an Amazon Associate and may receive a small comission if you purchase with my links_
