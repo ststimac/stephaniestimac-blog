@@ -1,5 +1,5 @@
 ---
-title: 2022 
+title: 2022 Year In Review
 description: 2022 Year in Review
 date: 2022-12-31
 tags:
