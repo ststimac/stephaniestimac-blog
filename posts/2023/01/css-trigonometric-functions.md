@@ -4,7 +4,7 @@ description: Taking a look at Trigonometric CSS functions and what problems they
 date: 2023-01-04
 tags:
   - web platform
-  - product management
+  - css
 layout: layouts/post.njk
 permalink: posts/2023/1/css-trigonometric-functions/index.html
 ---
@@ -59,4 +59,4 @@ If you're building and maintaining an average website, I don't see these being o
 
 ---
 
-Want to keep in touch? Sign up for my [newsletter](https://webwitchweekly.beehiiv.com/) to stay up to date with my book (including sales), upcoming projects and events, and other bits about cool things on the web.
+Want to keep in touch? Sign up for my [newsletter](https://webwitchweekly.beehiiv.com/) to stay up to date with [my book](https://www.manning.com/books/design-for-developers?utm_source=stimac&utm_medium=affiliate&utm_campaign=book_stimac_design_4_19_22&a_aid=stimac&a_bid=5f6ba095) (including sales), upcoming projects and events, and other bits about cool things on the web.
