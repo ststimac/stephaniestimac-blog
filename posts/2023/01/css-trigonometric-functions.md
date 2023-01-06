@@ -42,6 +42,12 @@ The main takeaway: these additions to CSS mean more complex animations that can 
 
 Another possible use case that came up elsewhere was using these to create charts and graphs in CSS, but this raises a question around responsiveness and scaling those angles and curves, though responsive skewing is mentioned in the GitHub issue.
 
+_Update January 6, 2023_
+
+This [GitHub issue](https://github.com/web-platform-tests/interop/issues/149) explains some more use cases for trigonometric functions. 
+
+I was surprised to see complex layouts on the list, but when discussing this with [Jhey](https://twitter.com/jh3yy) he mentioned using `sin()` to lay things out on a curve which could introduce some interesting layout possibility! 
+
 ## Closing thoughts 
 
 The addition of more math functions to CSS reduces some reliance on JavaScript which I view as a win. The primary use case for these seems to be easier shape creation and more options for building complex animations. 
