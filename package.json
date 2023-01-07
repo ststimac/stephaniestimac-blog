@@ -1,7 +1,7 @@
 {
   "name": "stephanie-stimac",
   "version": "5.0.0",
-  "description": "The technical and design blog of Stephanie Stimac",
+  "description": "The technical and design blog of Stephanie Stimac covering product, web platform and design",
   "scripts": {
     "dev": "npx @11ty/eleventy --serve --port=2022",
     "build": "npx @11ty/eleventy",
