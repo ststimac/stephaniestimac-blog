@@ -275,6 +275,8 @@ pre {
 .nav-item {
   display: block;
   margin-right: 1em;
+  margin-bottom: 0.25rem;
+  line-height: 1.3;
 }
 
 .nav-item a[href]:not(:hover) {

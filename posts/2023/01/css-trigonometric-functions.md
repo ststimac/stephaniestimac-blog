@@ -48,6 +48,15 @@ This [GitHub issue](https://github.com/web-platform-tests/interop/issues/149) ex
 
 I was surprised to see complex layouts on the list, but when discussing this with [Jhey](https://twitter.com/jh3yy) he mentioned using `sin()` to lay things out on a curve which could introduce some interesting layout possibility! 
 
+Here's a demo from Jhey (again, you'll need a browser that supports this feature or Chrome or Edge Canary with the experimental web platform features flag turned on.)
+
+<p class="codepen" data-height="300" data-default-tab="result" data-slug-hash="RwBoEVM" data-user="jh3y" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/jh3y/pen/RwBoEVM">
+  Image Layout with CSS Trigonometric Functions ✨ [Tap to toggle]</a> by Jhey (<a href="https://codepen.io/jh3y">@jh3y</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 ## Closing thoughts 
 
 The addition of more math functions to CSS reduces some reliance on JavaScript which I view as a win. The primary use case for these seems to be easier shape creation and more options for building complex animations. 
@@ -61,7 +70,7 @@ If you're building and maintaining an average website, I don't see these being o
 
 - [Part 1: in CSS and JavaScript: Introduction to Trigonometry](https://tympanus.net/codrops/2021/06/01/trigonometry-in-css-and-javascript-introduction-to-trigonometry/) by Michelle Barker
 - [Part 2: Trigonometry in CSS and JavaScript: Getting Creative with Trigonometric Functions](https://tympanus.net/codrops/2021/06/02/trigonometry-in-css-and-javascript-getting-creative-with-trigonometric-functions/) by Michelle Barker
-- [Part 3: Trigonometry in CSS and JavaScript: Beyond Triangles](https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/) by Michelle Barker
+- [Part 3: Trigonometry in CSS and JavaScript: Beyond Triangles](https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/) by Michelle 
 
 ---
 
