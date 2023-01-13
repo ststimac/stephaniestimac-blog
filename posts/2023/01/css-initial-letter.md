@@ -98,7 +98,7 @@ So stay tuned for more to come.
 
 As of right now, `initial-letter` is supported in Safari, though [caniuse](https://caniuse.com/?search=initial-letter) says the implementation is incomplete, and it is coming soon to Chromium. 
 
-You will need Canary to test this property as it doesn't seem to be behind a flag in Stable yet. I always have the experimental web platform feature flag turned on in Edge Canary so you'll most likely need that as well.
+I'm working in Edge Canary (Chromium) with the experimental web platform feature flag turned on, and the feature just shipped in the beta version of Chrome 110. 
 
 Firefox doesn't appear to be support at all though there was a little bit of movement on the Gecko issue for it, but anything beyond that doesn't seem to be clear. Hopefully it will be prioritized as this feature brings some easy to implement capabilities for good typography on the web.
 
