@@ -87,10 +87,10 @@ Following CSS properties are not implemented yet:
  * `initial-letter-wrap`
 
 And following features are not implemented yet:
- * multi-character initial letters (such as for first word or first phrase styling)[1]
- *  inside-positioned ::marker pseudo-elements[1]
- *  inline-level boxes that are placed at the start of the first line[1]
- * atomic inline[2]
+ * multi-character initial letters (such as for first word or first phrase styling)
+ *  inside-positioned ::marker pseudo-elements
+ *  inline-level boxes that are placed at the start of the first line
+ * atomic inline
 
 So stay tuned for more to come. 
 
