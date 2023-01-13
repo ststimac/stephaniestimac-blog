@@ -9,7 +9,7 @@ layout: layouts/post.njk
 permalink: posts/2023/1/css-initial-letter/index.html
 ---
 
-Today we're taking a look at another new addition to CSS that's about to land in browsers: `initial-letter`. This property is still experimental with full support in Safari but it is supported in Chromium Canary browsers. It is a bit buggy at times and I encountered issues with DevTools crashing on me so it's still obviously experimental.
+Today we're taking a look at another new addition to CSS that's about to land in browsers: `initial-letter`. This property is still experimental with support in Safari but it is supported in Chromium Canary browsers. It is a bit buggy at times and I encountered issues with DevTools crashing on me so it's still obviously experimental.
 
 ## What is `initial-letter` and what does it do?
 
