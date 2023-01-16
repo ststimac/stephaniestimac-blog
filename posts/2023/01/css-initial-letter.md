@@ -80,7 +80,7 @@ I added an SVG background for the illuminated text treatment, and there's probab
 
 ## Other notes
 
-This is just the start of `intial-letter`, per the [Chromium issue](https://bugs.chromium.org/p/chromium/issues/detail?id=1276900), there are still items in the works: 
+This is just the start of `initial-letter`, per the [Chromium issue](https://bugs.chromium.org/p/chromium/issues/detail?id=1276900), there are still items in the works: 
 
 Following CSS properties are not implemented yet:
  * `initial-letter-align`
