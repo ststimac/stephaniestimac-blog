@@ -283,6 +283,19 @@ pre {
   text-decoration: none;
 }
 
+.sidebar-book {
+  display: block;
+}
+
+.sidebar-book img {
+  max-width: 10rem;
+  border: 1px solid var(--darkpurple);
+}
+
+.sidebar-book img:hover {
+  opacity: .6;
+}
+
 .nav-item-active a {
   background-color: var(--lightpurple);
 }
@@ -588,6 +601,10 @@ a[href].direct-link:focus:visited,
   .sidebar {
     max-width: 27rem;
     padding: 0;
+  }
+
+  .sidebar-book {
+    display: none;
   }
 
   .nav {
