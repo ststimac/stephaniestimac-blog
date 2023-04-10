@@ -1,9 +1,9 @@
 {
-  "title": "Stephanie's Design and Technical Musings",
+  "title": "The Web Witch's Blog",
   "url": "https://blog.stephaniestimac.com",
-  "description": "Design and technical musings of Stephanie Stimac",
+  "description": "Navigating life in tech by Stephanie Stimac",
   "feed": {
-    "subtitle": "Design and technical musings of Stephanie Stimac",
+    "subtitle": "Navigating life in tech by Stephanie Stimac",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "url": "https://blog.stephaniestimac.com/feed/feed.xml",

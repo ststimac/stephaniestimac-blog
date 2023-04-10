@@ -15,7 +15,10 @@
   </head>
   <body>
     <header>
-      <h1 class="home container">{{ metadata.title }}</h1>
+      <div class="container">
+        <h1>{{ metadata.title }}</h1>
+        <p class="header-subhead">{{ metadata.description }}</p>
+      </div>
     </header>
     <div class="container grid--home">
       <div class="sidebar">
@@ -40,8 +43,8 @@
         </main>
     </div>
 
-    <footer></footer>
-
     <!-- Current page: {{ page.url | url }} -->
+
+    <footer class="container">&copy; 2023. Stephanie Stimac - All rights reserved.</footer>
   </body>
 </html>
