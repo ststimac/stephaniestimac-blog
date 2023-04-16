@@ -36,3 +36,4 @@ In the Chrome DevTools though, you can [emulate the media query](https://develop
 
 Here's the [Chrome Status](https://chromestatus.com/feature/5922192355229696) link for the feature. If this is something you want to see in browsers and want to help signal that desire and have a discussion around it, I'd suggest submitting the idea to the [Web We Want](https://webwewant.fyi) to track it there (the initiative is starting to kick back up again!). 
 
+Mozilla Developer Documentation: [Here](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-data)
