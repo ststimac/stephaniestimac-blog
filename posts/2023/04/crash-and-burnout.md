@@ -13,7 +13,7 @@ In the last year I have changed jobs, moved twice (one of those internationally)
 
 Additionally, with so much travel, I've had to leave my dog with my parents for an extended period of time and while she's spoiled rotten by her grandparents, she is my familiar. My stress reducer who helps me maintain some semblance of balance.
 
-I've also been dealing with an online harasser who has attempted to accuse of me of plagiarism and get me fired from my job because I had the gall to call out an email that they sent me. This person, who I don't know, who I had blocked on social media, engaged with me in a way that made me incredibly uncomfortable, and proceed to call me mentally ill for leaving my job at Microsoft. They have continued to pop up on and off over the last year in an alarming fashion, going so far as to impersonate someone on the Rapid exec team. 
+I've also been dealing with an online harasser who has attempted to accuse of me of plagiarism and get me fired from my job because I had the gall to call out an email that they sent me. This person, who I don't know, who I had blocked on social media, engaged with me in a way that made me incredibly uncomfortable, and proceeded to call me mentally ill for leaving my job at Microsoft. They have continued to pop up on and off over the last year in an alarming fashion, going so far as to impersonate someone on the Rapid exec team. 
 
 Both my publisher and my exec team at Rapid have been understanding but having someone attempt to tear apart your life because you exercised a boundary (and are generally pretty outspoken about this sort of harassment in general), is still incredibly stress inducing.
 
