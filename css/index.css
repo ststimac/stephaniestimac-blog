@@ -37,6 +37,7 @@ body {
   grid-template-columns: minmax(28rem, 3fr) minmax(12rem, 1fr) ;
   grid-template-rows: minmax(100vh, 1fr);
   grid-gap: 1rem;
+  margin-top: 1.2rem;
 }
 
 .container {
@@ -317,7 +318,7 @@ pre {
 
 .hero-image {
   background: url(/img/group-2.svg);
-  background-size: cover;
+  background-size: 160%, cover;
   height: auto;
   width: 100%;
   flex: 2;
