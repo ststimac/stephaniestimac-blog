@@ -1,9 +1,9 @@
 {
   "title": "The Web Witch's Blog",
   "url": "https://blog.stephaniestimac.com",
-  "description": "Navigating life in tech by Stephanie Stimac",
+  "description": "Stephanie Stimac talks about the web platform, design, product management and life in tech.",
   "feed": {
-    "subtitle": "Navigating life in tech by Stephanie Stimac",
+    "subtitle": "Stephanie Stimac talks about the web platform, design, product management and life in tech.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "url": "https://blog.stephaniestimac.com/feed/feed.xml",
