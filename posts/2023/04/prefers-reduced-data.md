@@ -8,7 +8,7 @@ tags:
   - web platform
 layout: layouts/post.njk
 images:
-    thumb: img/2023/prefers-reduced-data.png
+    thumb: /img/2023/prefers-reduced-data.png
 permalink: posts/2023/4/css-prefers-reduced-data/index.html
 ---
 

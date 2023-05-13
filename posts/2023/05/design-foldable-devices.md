@@ -6,6 +6,8 @@ tags:
   - web platform
   - css
 layout: layouts/post.njk
+images:
+    thumb: /img/2023/env-var/3-env-variables.webp
 permalink: posts/2023/05/design-foldable-devices/index.html
 ---
 
