@@ -2,6 +2,7 @@
 {% set pageDesc = '' %}
 {% set siteTitle = site.name %}
 {% set currentUrl = site.url + page.url %}
+{% set ogImage = images.thumb %}
 
 {% if metaTitle %}
   {% set pageTitle = metaTitle %}
@@ -14,7 +15,7 @@
 <title>{{ pageTitle  }}</title>
 <link rel="canonical" href="{{ currentUrl }}" />
 
-<meta name="image" property="og:image" content="https://blog.stephaniestimac.com/img/steph-logo.png" />
+<meta name="image" property="og:image" content="https://blog.stephaniestimac.com{{ ogImage }}" />
 <meta name="description" property="og:description" content="{{ description }}" />
 <meta property="og:site_name" content="{{ siteTitle }}" />
 <meta property="og:title" content="{{ pageTitle }}" />
