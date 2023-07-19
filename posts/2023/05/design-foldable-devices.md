@@ -85,7 +85,7 @@ Again, this means that each column takes up a display. Pretty sweet.
  
  With the Surface Duo, you can utilize the browser in one display pane and it displays like a normal responsive website.  Not every site or app *does* need a dual screen mode, but its best to find out what kind of devices your customers are using and whether or not a dual screen mode is worth the investment. As always, use data to guide your decisions. 
 
- The forecast for foldables shipped in 2023 is expected to be above 21 million devices ([source])(https://www.idc.com/getdoc.jsp?containerId=prUS50531423). Compared to the mobile device market, its just a sliver, but that's still millions of foldables being used out there. 
+ The forecast for foldables shipped in 2023 is expected to be above 21 million devices [(source)](https://www.idc.com/getdoc.jsp?containerId=prUS50531423). Compared to the mobile device market, its just a sliver, but that's still millions of foldables being used out there. 
 
  The other reason I'd create an app or website that adapts for a foldable device? If I wanted to stand out. 
 
@@ -103,5 +103,5 @@ Unfortunately, Chrome Stable doesn't appear to have the same support yet which s
 
 This article is just an overview and reminder that these capabilities exist for foldable web and app experiences. The space is ripe for innovation in design and layout on the web (and for native apps) as new foldable devices ship, but without the browser and OS support, companies won't be able to get devs and designers to take building foldable experiences seriously. 
 
-If your'e still interested exploring what's possible with dual screen layouts, I've a much more in depth article over on [Smashing Magazine](https://www.smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices) that walks through the (recipe demo)[https://stephaniestimac.com/demos/smashing-ds-demo/] I made for the web. So download Microsoft Edge and happy building. 
+If your'e still interested exploring what's possible with dual screen layouts, I've a much more in depth article over on [Smashing Magazine](https://www.smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices) that walks through the [recipe demo](https://stephaniestimac.com/demos/smashing-ds-demo/) I made for the web. So download Microsoft Edge and happy building. 
 
