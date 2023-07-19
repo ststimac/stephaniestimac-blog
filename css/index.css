@@ -397,8 +397,9 @@ pre {
 }
 
 .tmpl-home .postlist-link {
-  font-size: 1.1875em; /* 19px /16 */
+  font-size: 1.4em; 
   font-weight: 600;
+  max-width: 48ch;
 }
 
 /* Table */
