@@ -35,7 +35,7 @@ I wrote about [Now Lists](https://webwitchweekly.beehiiv.com/) in my newsletter.
 
 ### Career
 
-Though I have applied to a few full time roles sporadically, it's difficult because I don't want to stay in Germany. Right now I'm finding a lot of joy in freelance work and the freedom of remote. I am back and forth between Germany, the UK and the USA a lot at the moment and will be for the next few months.
+Though I have applied to a few full time roles sporadically, it's difficult because I don't want to stay in Germany. 
 
 I have a unique set of skills. The graphic designer turned web & UX designer who learned how to code and was then hired as a product manager but was doing product, design, code and developer relations for the web platform. 
 
