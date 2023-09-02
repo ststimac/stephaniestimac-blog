@@ -132,9 +132,11 @@ blockquote {
 p,
 .tmpl-post li,
 img {
-  max-width: 48rem;
+  max-width: 42rem;
   width: 100%;
+  padding-right: 1.2rem;
 }
+
 
 img {
   margin-top: 1.2rem;
@@ -197,7 +199,7 @@ code {
 }
 
 pre {
-  max-width: 48rem;
+  max-width: 42rem;
   font-size: 14px;
   line-height: 1.375;
   direction: ltr;
@@ -675,6 +677,11 @@ footer {
   header {
       flex: 1;
       width: 100%;
+      margin-bottom: 0;
+  }
+
+  .header-subhead {
+    font-size: 1.2rem;
   }
 
   .hero {
