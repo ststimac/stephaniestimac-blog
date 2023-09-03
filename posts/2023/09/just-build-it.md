@@ -15,7 +15,7 @@ CSS Grid wasn't even fully supported yet and there were fallbacks with Flexbox. 
 
 It did the job and showcased the design work from the previous 4 years. I eventually updated it with a few demos and tools I had worked on at Microsoft. 
 
-And over the last 3-4 years, I've probably attempted a re-design no less than 10 times. I would start to design in Illustrator, I would then start building and then abandon it. My biggest hinderance was wanting my website to be tied to my personal identity. I would grow frustrated with it not fully embodying me and then decide I didn't need to re-design it and then cycle would start again. 
+And over the last 3-4 years, I've probably attempted a re-design no less than 10 times. I would start to design in Illustrator, I would then start building and then abandon it. My biggest hinderance was wanting my website to be tied to my personal identity. I would grow frustrated with it not fully embodying me and then decide I didn't need to re-design it and the cycle would start again. 
 
 Well, I wanted to break the cycle so I did. Instead of making the site some personal horcrux indicative of my most personal self, I wrote down what I wanted to achieve with it, what it needed to do and highlight and then I spun up Astro and started building it on a Monday and launched it by Wednesday. 
 
