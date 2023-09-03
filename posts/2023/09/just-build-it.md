@@ -37,3 +37,7 @@ An Instagram reel came across my feed in which a woman is telling a story about 
 The group that is instructed to submit 100 photos gets better because they start right away and start taking photos and learn about composition. While the other group doesn't get better because they hem and haw over what a perfect photo is. 
 
 You get better by doing. So go do. Go build. And iterate. 
+
+September 3 Edit: the re-designed website lives [here](https://stephaniestimac.com) 
+
+x Steph
