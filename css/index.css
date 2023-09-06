@@ -314,18 +314,18 @@ pre {
 
 .header-subhead {
   font-size: 2.2rem;
-  margin-top: 0;
+  margin: 0;
   line-height: 1.2;
-  padding: 1rem 1rem 1rem 1.4rem;
+  padding: 2rem 2rem 2rem 2.4rem;
 }
 
 .hero-image {
-  background: url(/img/group-2.svg);
+  /*background: url(/img/group-2.svg);
   background-size: 160%, cover;
   height: auto;
   width: 100%;
   flex: 2;
-  border-top-right-radius: 30px;
+  border-top-right-radius: 30px;*/
 }
 
 /* Sidebar */
@@ -672,6 +672,7 @@ footer {
 
   h1 {
     font-size: 2.2rem;
+    text-wrap: balance;
   }
 
   header {
