@@ -1,5 +1,5 @@
 ---
-title: Greater styling control over type with `initial-letter`
+title: Greater styling control over type with CSS `initial-letter`
 description: An overview of the new CSS property `initial-letter` for more styling control over the first letter. 
 date: 2023-01-12
 tags:
