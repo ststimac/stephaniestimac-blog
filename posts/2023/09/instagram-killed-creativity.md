@@ -35,6 +35,8 @@ Unfortunately Instagram isn't the only one suffering from this. Twitter is awash
 
 Rinse. Repeat. And the cycle goes on and on. 
 
+Edit: After posting this, I came across a blog post from [Olu](https://olu.online/about/), titled "Bump, boost" about mass social media and engagement. Definitely worth a read! [Check out their blog post here](https://olu.online/bump-boost/)
+
 ---
 
 Follow me on [Mastodon](https://toot.cafe/@seaotta), on [Twitter](https://twitter.com/seaotta) or [Instagram](https://instagram.com) and yes I'm on Threads too. I run [The Web We Want](https://webwewant.fyi), a place for web developers and designers to submit the things they need from browsers and the web platform to make their jobs easier. [Subscribe to my newsletter](https://webwitchweekly.beehiiv.com/) to get interesting web dev and design links and occasional updates about what I'm doing.
