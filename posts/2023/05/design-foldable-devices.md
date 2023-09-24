@@ -1,5 +1,5 @@
 ---
-title: 'Embracing the fold: Designing for Dual Screen and Foldable Devices With CSS'
+title: 'Designing for Dual Screen and Foldable Devices With CSS'
 description: Revisiting the CSS media queries and environment variables for foldable devices.
 date: 2023-05-11
 tags:

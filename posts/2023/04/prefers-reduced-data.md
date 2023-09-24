@@ -1,5 +1,5 @@
 ---
-title: Serving less data to users with the `prefers-reduced-data` media query
+title: Serving less data with the `prefers-reduced-data` media query
 description: An overview of the proposed CSS media query `prefers-reduced-data` 
 date: 2023-04-16
 tags:

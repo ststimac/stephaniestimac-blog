@@ -25,7 +25,7 @@
 
 html,
 body {
-  font: 100%/1.5 'Open Sans', Arial, Helvetica, sans-serif;
+  font: 100%/1.5 'DM Sans', Arial, Helvetica, sans-serif;
   padding: 0 1rem 0 1rem;
   margin: 0;
   color: var(--darkgray);
@@ -48,8 +48,6 @@ body {
 }
 
 header {
-  padding: 1rem 0;
-  margin-bottom: 1.2rem;
   color: var(--purple);
 }
 
@@ -58,7 +56,7 @@ h2,
 h3,
 h4,
 .nav {
-  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+  font-family: 'DM Sans', Arial, Helvetica, sans-serif;
 }
 
 h1 {
@@ -67,9 +65,10 @@ h1 {
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 2.2rem;
   line-height: 1.25;
   text-wrap: balance;
+  max-width: 36ch;
 }
 
 h3 {
@@ -254,6 +253,10 @@ pre {
 
 /* Header */
 
+header p {
+  margin-bottom: 0;
+}
+
 .home {
   font-size: 1.6rem; /* 16px /16 */
   line-height: 2.4rem;
@@ -266,6 +269,7 @@ pre {
 .header-alignment {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .h1-small {
@@ -304,7 +308,6 @@ pre {
 .hero {
   display: flex;
   color: var(--white);
-  font-family: Poppins;
   padding: 0;
   border-top-right-radius: 30px;
   border-bottom-left-radius: 30px;
@@ -320,13 +323,14 @@ pre {
   padding: 2rem 2rem 2rem 2.4rem;
 }
 
-.hero-image {
-  /*background: url(/img/group-2.svg);
-  background-size: 160%, cover;
-  height: auto;
-  width: 100%;
-  flex: 2;
-  border-top-right-radius: 30px;*/
+.intro {
+  color: var(--medgray);
+}
+
+.intro h2 {
+  margin-top: 0;
+  max-width: 36ch;
+  font-weight: 400;
 }
 
 /* Sidebar */
@@ -352,7 +356,6 @@ pre {
   font-size: 1rem;
   margin: 0.6rem 0 .6rem 0;
   line-height: 1.3;
-  font-family: 'Poppins', sans-serif;
   background-color: var(--lightaqua);
   color: var(--darkgray);
   text-align: center;
@@ -366,7 +369,6 @@ pre {
 
 /* Posts list */
 .postlist {
-  font-family: 'Poppins', sans-serif;
   list-style: none;
   padding: 0;
   margin-top: 2rem;
@@ -401,7 +403,7 @@ pre {
 }
 
 .tmpl-home .postlist-link {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   font-weight: 600;
   max-width: 48ch;
 }
@@ -441,8 +443,8 @@ td {
   text-transform: uppercase;
   font-size: 0.625em; /* 10px /16 */
   padding: 2px 4px;
-  margin-left: .1rem;
-  background-color: var(--lightaqua);
+  margin-left: .5rem;
+  background-color: hsl(0deg 0% 78.4% / 41%);
   color: var(--darkgray);
   border-radius: 0.25em; /* 3px /12 */
   text-decoration: none;
