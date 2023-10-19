@@ -414,6 +414,12 @@ header p {
   max-width: 48ch;
 }
 
+/* Codepen Container */
+
+.codepen-container {
+  max-width: 48rem;
+}
+
 /* Table */
 
 table {
