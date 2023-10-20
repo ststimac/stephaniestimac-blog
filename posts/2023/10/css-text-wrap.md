@@ -60,3 +60,11 @@ Use `text-wrap: balance;` on headings and subheadings. And use `text-wrap: prett
 Here's the [link out to MDN for text-wrap](https://developer.mozilla.org/en-US/docs/Web/CSS/text-wrap).
 
 
+
+-----
+
+Follow me on [Mastodon](https://toot.cafe/@seaotta), on [Twitter](https://twitter.com/seaotta) or [Instagram](https://instagram.com) and yes I'm on Threads too. I run [The Web We Want](https://webwewant.fyi), a place for web developers and designers to submit the things they need from browsers and the web platform to make their jobs easier. 
+
+Author of [Design for Developers](https://www.manning.com/books/design-for-developers?utm_source=stimac&utm_medium=affiliate&utm_campaign=book_stimac_design_4_19_22&a_aid=stimac&a_bid=5f6ba095). 
+
+[Subscribe to my newsletter](https://webwitchweekly.beehiiv.com/) to stay up to date with me, get interesting web platform and design related links.
