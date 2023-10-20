@@ -55,7 +55,7 @@ Support for `pretty` is again quite sparse, with only Chromium browser support. 
 
 ## Balance and Pretty
 
-Use `text-wrap: balance;` on headings and subheadings. And use `text-wrap: pretty;` on paragraphs of text to get rid of orphans on the last line. Despite the Chromium-only support, these would be a good candidate for progressive enhancement. 
+Use `text-wrap: balance;` on headings and subheadings. And use `text-wrap: pretty;` on paragraphs of text to get rid of orphans on the last line. Despite the Chromium-only support, these would be a good candidate for progressive enhancement. It won't negatively affect the experience if someone is not in a supported browser, but it will some visual balance to the page for those in a browser where supported.
 
 Here's the [link out to MDN for text-wrap](https://developer.mozilla.org/en-US/docs/Web/CSS/text-wrap).
 
