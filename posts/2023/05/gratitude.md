@@ -21,5 +21,5 @@ There are always things to be thankful for, even in the most grim of times or wh
 Today:
 I'm thankful that the sun is shining in Berlin again. 
 I'm thankful for the ability to share and ask for help within the Rapid Alumni Slack group.
-I'm thankful for a slow day where I have no committments. 
+I'm thankful for a slow day where I have no commitments. 
 

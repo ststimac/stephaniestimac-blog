@@ -373,6 +373,10 @@ header p {
   text-align: center;
 }
 
+.amazon-ads img {
+  padding-right: 0;
+}
+
 /* Posts list */
 .postlist {
   list-style: none;
@@ -418,6 +422,7 @@ header p {
 
 .codepen-container {
   max-width: 48rem;
+  padding-bottom: 2.4rem;
 }
 
 /* Table */
