@@ -1,12 +1,12 @@
 ---
 title: Mental health resets in nature
 description:
-date: 2023-11-01
+date: 2023-11-06
 tags:
   - life
   - mental health
 layout: layouts/post.njk
-permalink: posts/2023/11/getting-lost-nature/index.html
+permalink: posts/2023/11/mental-health-nature/index.html
 ---
 
 I love a bougie experience. A nice hotel, a nice restaurant. But I also love a grueling hike that leads to some truly stunning nature that isn't accessible to many people. Growing up in Washington and spending the last 16 years in Bellingham and Seattle placed me in the midst of premium access to some of the best nature. 
