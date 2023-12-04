@@ -55,3 +55,5 @@ The CSS media query for scripting support is available in Chrome as of November 
 This seems like a pretty great feature for progressive enhancement even at the most basic level. You can ensure your users who have JavaScript support disabled get a good experience fairly easily.  With nearly full major browser support, this is a great addition to the web platform. 
 
 Happy coding!
+
+Edit after publishing: There is indeed a `<noscript>` tag, but the intention with this media query "isn't to replace noscript. Its just to allow you to style elements based on the script state." - [Source Link](https://bugs.chromium.org/p/chromium/issues/detail?id=1467097)
