@@ -1,7 +1,7 @@
 ---
 title: CSS Media Query for Scripting Support
 description:
-date: 2023-12-01
+date: 2023-12-04
 tags:
   - css
   - web platform 
