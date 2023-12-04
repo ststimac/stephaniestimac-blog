@@ -1,6 +1,6 @@
 ---
 title: Home
-description:
+description: Thoughts on not having a place to call home for 11 months
 date: 2023-11-22
 tags:
   - life

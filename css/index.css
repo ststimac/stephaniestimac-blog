@@ -62,6 +62,7 @@ h4,
 h1 {
   font-size: 3.4rem;
   line-height: 1.25;
+  text-wrap: balance;
 }
 
 h2 {
@@ -275,14 +276,21 @@ header p {
 .h1-small {
   font-size: 1.3rem;
   font-weight: 600;
+  flex: 1 0 250px;
 }
 
 /* Nav */
+
+nav {
+  flex: 1 0 auto;
+}
+
 .nav {
   padding: 0;
   list-style: none;
   text-transform: capitalize;
   display: flex;
+  justify-content: end;
 }
 
 .nav a,
@@ -666,6 +674,7 @@ footer {
   justify-content: space-between;
 }
 
+
 .affiliate {
   max-width: 36rem;
 }
@@ -699,7 +708,6 @@ footer {
 
   h1 {
     font-size: 2.2rem;
-    text-wrap: balance;
   }
 
   header {
@@ -727,6 +735,7 @@ footer {
 
   .nav {
     flex-wrap: wrap;
+    justify-content: start;
   }
 
   nav .nav-item {
