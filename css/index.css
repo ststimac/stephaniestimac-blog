@@ -100,7 +100,8 @@ h3 + h4 {
 
 h1 + p,
 h2 + p,
-h3 + p {
+h3 + p,
+pre + p {
   margin-top: 1.2rem;
 }
 

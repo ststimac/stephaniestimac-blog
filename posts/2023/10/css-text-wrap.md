@@ -1,6 +1,6 @@
 ---
 title: 'When to use CSS text-wrap: balance; vs text-wrap: pretty;'
-description:
+description: A ruthless look at when to use these two CSS text-wrap values.
 date: 2023-10-20
 tags:
   - css

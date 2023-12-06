@@ -1,6 +1,6 @@
 ---
 title: CSS Media Query for Scripting Support
-description:
+description: A brief look at the CSS Media Query for scripting support
 date: 2023-12-04
 tags:
   - css
