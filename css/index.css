@@ -734,6 +734,10 @@ footer {
     padding: 0;
   }
 
+  nav {
+    flex: 1 1 auto;
+  }
+
   .nav {
     flex-wrap: wrap;
     justify-content: start;
