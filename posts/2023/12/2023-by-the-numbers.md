@@ -22,7 +22,7 @@ permalink: posts/2023/12/2023-by-the-numbers/index.html
 8 freelance projects completed 
 15 interviews
 40+ job applications
-93 [products on Amazon](https://www.amazon.com/shop/seaotta/list/1LP5CKOAW0CIY?ref_=cm_sw_r_cp_ud_aipsflist_aipsfseaotta_BMHK24AKTXXQ61QAYJCC) sold based on my designs
+93 [products on Amazon](https://www.amazon.com/shop/seaotta/list/1LP5CKOAW0CIY?ref_=cm_sw_r_cp_ud_aipsflist_aipsfseaotta_BMHK24AKTXXQ61QAYJCC) sold based on my designs since August
 6 [Etsy](https://www.etsy.com/shop/VoguesMoon) sales 
 243 days on Duolingo learning German then French
 
