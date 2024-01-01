@@ -7,7 +7,7 @@ tags:
   - year in review
 layout: layouts/post.njk
 images:
-    thumb: https://stephaniestimac.com/img/2024/2023-books.webp
+    thumb: https://stephaniestimac.com/img/2024/2023-book.webp
 permalink: posts/2024/01/2023-books/index.html
 ---
 
