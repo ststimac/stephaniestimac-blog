@@ -13,7 +13,7 @@ permalink: posts/2024/01/naming-things/index.html
 
 Jhey and I have been going back and forth on naming our CSS project and I am once again reminded how terribly hard it is to name things. You want something that stands out, but when you go to research what's available from a branding perspective, the prospects are grim. 
 
-We initially landed on The Cascade and created a [newsletter](https://signupto.thecasca.de/) sign up page, but about 10 others have had the same name idea so we went back to the drawing board and it's hard. 
+We initially landed on The Cascade and created a [newsletter](https://signupto.thecasca.de/) sign up page, but about 10 others have had the same name idea so we went back to the drawing board and...plainly put, it's hard. 
 
 I've been feeling wistful for the days of old when I was writing content for my blog [The Hermes Homestead](https://thehermeshomestead.com/), which is still alive and kicking but the name doesn't feel relevant to me and my path anymore so I've been noodling on names. 
 
