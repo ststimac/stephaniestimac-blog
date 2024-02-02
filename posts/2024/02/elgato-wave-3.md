@@ -13,7 +13,7 @@ permalink: posts/2024/02/elagto-wave-3-microphone/index.html
 
 My desk setup in the UK is slowly coming together & Jhey picked out a microphone for me. I had a Blue Yeti microphone in the US...and I still do it's just in storage. It had issues with staying connected through a dongle after my work MacBook was upgraded and I didn't have the normal, big USB plug anymore. 
 
-It was a fine started microphone but it was big and bulky. 
+It was a fine starter microphone but it was big and bulky. 
 
 ![alt: A photo of the Elgato Wave 3 installed on the kit arm](/../img/2024/elgato-wave.webp)
 
