@@ -19,6 +19,13 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
   });
 
+  // Filter by post tags
+  eleventyConfig.addFilter("filterPostsByTag", function(posts, tags) {
+    // return posts.filter(post => tags.length !== 0);
+    console.info({ posts, tags})
+    return posts.filter(post => tags.every(t => post.data.tags?.includes(t)));
+  });
+
   // Get the first `n` elements of a collection.
   eleventyConfig.addFilter("head", (array, n) => {
     if( n < 0 ) {
