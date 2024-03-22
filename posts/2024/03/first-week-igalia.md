@@ -7,7 +7,7 @@ tags:
   - career
 layout: layouts/post.njk
 images:
-    thumb: /img/2024/
+    thumb: /img/2024/igalia-week-01.webp
 permalink: posts/2024/03/first-week-igalia/index.html
 ---
 
