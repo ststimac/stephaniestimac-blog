@@ -347,9 +347,6 @@ nav {
 
 .sidebar-book {
   display: block;
-  text-align: center;
-  border-top: 6px solid var(--lightaqua);
-  padding-top: 1rem;
 }
 
 .sidebar-book img {
