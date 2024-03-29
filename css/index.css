@@ -350,8 +350,7 @@ nav {
 }
 
 .sidebar-book img {
-  max-width: 10rem;
-  border: 1px solid var(--darkpurple);
+  max-width: 19rem;
   margin-top: 0;
   padding-right: 0;
 }
