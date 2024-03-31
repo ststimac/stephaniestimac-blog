@@ -350,9 +350,9 @@ nav {
 }
 
 .sidebar-book img {
-  max-width: 19rem;
   margin-top: 0;
   padding-right: 0;
+  max-width: 19rem;
 }
 
 .sidebar-book img:hover {
