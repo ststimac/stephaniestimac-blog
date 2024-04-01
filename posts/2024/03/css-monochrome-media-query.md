@@ -23,7 +23,7 @@ I don't know what browser my Kindle has, though the device is at least 4 years o
 
 Curious. 
 
-In 2022, a WebKit bug that had been opened [since 2013](https://bugs.webkit.org/show_bug.cgi?id=112549). This must have relevance somewhere in order to make a fix to match the spec.
+In 2022, a WebKit bug that had been opened [since 2013](https://bugs.webkit.org/show_bug.cgi?id=112549) was fixed. This must have relevance somewhere in order to make a fix to match the spec.
 
 But there is very little information on it otherwise. A few mentions of using it for print layouts, but there's a media query to target print layouts already. Most sites that have posted about it are just regurgitating the very minimal information the spec provides. 
 
