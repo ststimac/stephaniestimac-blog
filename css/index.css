@@ -555,18 +555,22 @@ a[href].direct-link:focus:visited,
 }
 
 :is(.pagination, .blog-post) a {
-  color: #000;
+  color: var(--medpurple);
   font-weight: bold;
+
+  /* original link animation 
   background: linear-gradient(rgba(119, 0, 231, 0.3), rgba(119, 0, 231, 0.3));
   background-size: 100% 0.5rem;
   background-repeat: no-repeat;
   background-position: left 0 bottom 0;
-  transition: all 0.1s linear 0s;
   text-decoration: none;
+   */
+   transition: all 0.1s linear 0s;
 }
 
 :is(.pagination, .blog-post) a:hover {
-  background-size: 100% 100%;
+  /*background-size: 100% 100%; animation code */
+  color: var(--darkgray);
 }
 
 :is(.pagination, .blog-post) ul li a {
