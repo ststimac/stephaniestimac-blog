@@ -50,5 +50,5 @@ You can download Wolvic from the Meta App store. It's also available on Pico & H
 
 If you're an XR developer, please let us know if you have any feedback for Wolvic. You can follow the project on [GitHub](https://github.com/Igalia/wolvic). 
 
-More to come but for now I just wanted to say....this is SO freaking cool. 
+More to come but for now I just wanted to say....this is SO freaking cool. Stay tuned for some posts and videos on YouTube. 
 
