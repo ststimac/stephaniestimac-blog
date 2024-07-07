@@ -1,5 +1,5 @@
 ---
-title: Life Check No1
+title: Life Check №1
 description: A June recap 
 date: 2024-07-07
 tags:
