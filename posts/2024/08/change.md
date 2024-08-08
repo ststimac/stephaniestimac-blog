@@ -15,7 +15,7 @@ The skies are faintly hazy in that dreamy August way. The less dreamy reality of
 
 I don't have time for blues night at The Spot and each time I try to swing by for a coffee on my way to the bane of my existence (my storage unit), it's closed, which is very unlike the way things were. Blues night isn't even the same crew anymore. I go to Beacon Hill and have wine on the patio with two of my girlfriends and have a lovely moment. 
 
-A week flies by, and I am once again sat in SeaTac, which is not immune to the progress and evolution around it. The  not headed home across the Atlantic, but to see my brother and my new niece who arrived 7 weeks early. I am tired. "I really must stop trying to cram so much in during these trips" I tell myself...again. 
+A week flies by, and I am once again sat in SeaTac, which is not immune to the progress and evolution around it. I am not headed home across the Atlantic, but to see my brother and my new niece who arrived 7 weeks early. I am tired. "I really must stop trying to cram so much in during these trips" I tell myself...again. 
 
 But it's hard not to when everything is changing and new things are happening. 
 
