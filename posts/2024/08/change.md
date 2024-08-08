@@ -19,6 +19,6 @@ A week flies by, and I am once again sat in SeaTac, which is not immune to the p
 
 But it's hard not to when everything is changing and new things are happening. 
 
-It's strange to feel your love of place evolve and change as you witness the physicality of it also change. Not necessarily the nature, which is surely changing in a way not noticeable to the eye, but the hustle and bustle of people and human settlement. My love for Seattle remains rooted in it's beauty & nearness to the water. 
+It's strange to feel your love of place evolve and change as you witness the physicality of it also change. Not necessarily the nature, which is surely changing in a way not noticeable to the eye, but the hustle and bustle of people and human settlement. My love for Seattle remains rooted in its beauty & nearness to the water. 
 
 The air smells salty when I visit now, something I haven't noticed for well over a decade. I'm no longer acclimated, and yet Seattle still holds a tiny piece of my soul. A piece which is greatly calmed when I sit on the rocks of the shoreline in West Seattle. 
