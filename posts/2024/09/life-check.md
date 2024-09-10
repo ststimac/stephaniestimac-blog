@@ -5,6 +5,8 @@ date: 2024-09-09
 tags:
   - life
 layout: layouts/post.njk
+images:
+    thumb: /img/2024/august.webp
 permalink: posts/2024/09/life-check-no-2/index.html
 ---
 
