@@ -51,13 +51,14 @@ header {
   color: var(--purple);
 }
 
-h1,
+h1 
 h2,
 h3,
 h4,
 .nav {
   font-family: 'DM Sans', Arial, Helvetica, sans-serif;
 }
+
 
 h1 {
   font-size: 3.4rem;
@@ -132,16 +133,21 @@ blockquote {
 }
 
 p,
-.tmpl-post li,
-img {
+.tmpl-post li {
   max-width: 42rem;
   width: 100%;
+}
+
+.tmpl-post li {  
   padding-right: 1.2rem;
 }
 
 
 img {
+  max-width: 42rem;
+  width: 100%;
   margin-top: 1.2rem;
+  padding-right: 0;
 }
 
 p,
@@ -167,6 +173,7 @@ main {
   padding: 0;
   position: relative;
   min-height: 100vh;
+  width: 100%;
 }
 
 main :first-child {
@@ -555,7 +562,7 @@ a[href].direct-link:focus:visited,
 }
 
 :is(.pagination, .blog-post) a {
-  color: var(--medpurple);
+  color: var(--purple);
   font-weight: bold;
 
   /* original link animation 
