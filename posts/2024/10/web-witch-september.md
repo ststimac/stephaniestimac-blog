@@ -1,6 +1,6 @@
 ---
 title: "Web Witch's Grimoire: September 2024"
-description: An August recap
+description: A September recap
 date: 2024-10-18
 tags:
   - life
@@ -76,7 +76,7 @@ The others are obviously up on [YouTube](https://www.youtube.com/@seaotta__) (Se
 
 ### Mental Health Bits
 
-Navigating life in a different country is already stressful. I've been getting better at identifying triggers for bipolar depression and it feels like a big win. Even if I can't always immediately counteract things, I am aware of what's going on and why I'm feeling a certain way. It's a big accomplishments. Some days are a struggle and others are fine. It's nothing to be ashamed of. 
+Navigating life in a different country is already stressful. I've been getting better at identifying triggers for bipolar depression and it feels like a big win. Even if I can't always immediately counteract things, I am aware of what's going on and why I'm feeling a certain way. It's a big accomplishment. Some days are a struggle and others are fine. It's nothing to be ashamed of. 
 
 ### Postscript 
 
