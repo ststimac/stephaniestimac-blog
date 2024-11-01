@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 images:
     thumb: /img/2024/sep-2024/seattle-2.webp
-permalink: posts/2024/10/web-witch-september-2024/index.html
+permalink: posts/2024/11/web-witch-september-2024/index.html
 ---
 
 September was incredibly busy across work and personal life. I am out of a routine and trying to find my way back to writing regularly (among creating in general) while also making sure I spend time doing things I enjoy. As soon as I publish this I'm off to decide what to bake and then go hang out and read and maybe make some soup. It's soup season.  
