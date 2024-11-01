@@ -11,6 +11,8 @@ images:
 permalink: posts/2024/10/html-details-and-summary-update/index.html
 ---
 
+<p class="blog-post__date">01 November 2024</p>
+
 Form controls are notoriously difficult to style, something the web community has been talking about for years. In 2019, when I was still at Microsoft, I had been working with [Greg Whitworth](https://gregwhitworth.com/) to start evangelizing the work that was being planned for `<select>`, as well as the [Open UI](https://open-ui.org/) community group that would help bring this plan to life. 
 
 There's a lot that has happened in that five years, and more still to come. Most recently I've seen work being done to improve the customizability of the `<details>` and `<summary>` elements. More stylable accordions. Exciting! 
