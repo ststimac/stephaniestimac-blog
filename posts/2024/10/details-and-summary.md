@@ -1,7 +1,7 @@
 ---
 title: The <details> and <summary> elements are getting an upgrade
 description: It's going to be easier to style the '<details>' and '<summary>' elements 
-date: 2024-10-31
+date: 2024-11-01
 tags:
   - web platform
   - user interface
