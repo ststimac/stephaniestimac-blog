@@ -9,8 +9,6 @@ layout: layouts/post.njk
 permalink: posts/2022/10/personal-sprint-retrospective/index.html
 ---
 
-<p class="blog-post__date">21 October 2022</p>
-
 Due to time zone differences, I'm not typically able to attend team sprint retrospectives on Fridays. 
 
 If you've never done a sprint, a sprint is a set amount of time to complete a specific set of tasks. For example, we work in two week sprints at RapidAPI. I believe we did the same on the Microsoft Edge team but my work was so disconnected from traditional engineering teams, I was rarely ever working in sprints. 

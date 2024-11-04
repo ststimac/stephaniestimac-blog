@@ -9,8 +9,6 @@ layout: layouts/post.njk
 permalink: posts/2022/06/web-witch-grimoire-04/index.html
 ---
 
-<p class="blog-post__date">12 June 2022</p>
-
 I have been deep in learning mode the last 3 weeks learning about all the things API related. Or attempting to. Everyone at RapidAPI has been pretty fantastic about helping me understand how things work and what the developers who use our tools do. Every time I try to get started writing an API while watching a tutorial, I seem to get sidetracked with one of the product experiences I own and start poking around...and when I say poking around, I mean diving in with a shovel to see what's up and try and break things. 
 
 If you're interested in getting access to previews of the developer tooling products I'm working on, you can sign up for those previews [here](https://t.co/bzoexSXraO).

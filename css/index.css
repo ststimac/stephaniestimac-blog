@@ -190,6 +190,12 @@ main :first-child {
   margin-top: .6rem;
 }
 
+.blog-post__date {
+  margin: 1.2rem 0 2.4rem 0;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
 
 
 hr {
@@ -438,6 +444,14 @@ nav {
   padding-bottom: 2.4rem;
 }
 
+.youtube-container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  max-width: 48rem;
+  height: 100%;
+}
+
 /* Table */
 
 table {
@@ -603,6 +617,8 @@ a[href].direct-link:focus:visited,
   margin-top: 2rem;
 }
 
+
+
 /* Tag Page */
 
 .tag-group {
@@ -731,6 +747,11 @@ footer {
       flex: 1;
       width: 100%;
       margin-bottom: 0;
+  }
+
+  main {
+    max-width: 75rem;
+    width: 100%;
   }
 
   .header-subhead {

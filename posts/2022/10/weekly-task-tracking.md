@@ -9,8 +9,6 @@ layout: layouts/post.njk
 permalink: posts/2022/10/weekly-task-tracking/index.html
 ---
 
-<p class="blog-post__date">28 October 2022</p>
-
 When I was early in my career at Microsoft, I was telling my coworker Anton that I was struggling with writing one of my bi-yearly reviews because it felt like I kept getting randomized with tasks that didn’t tie back to my main projects. 
 
 He showed me his OneNote and said he kept a weekly tracker of what he was supposed to be working on and documented the tasks that were unplanned that threw off his work week. I immediately started doing the same and still do it today. 
