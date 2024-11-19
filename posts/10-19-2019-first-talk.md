@@ -8,8 +8,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-<p class="blog-post__date">19 October 2019</p>
-
 I gave my first conference talk at Design It Build It conference in September this year. After my talk, an attendee invited me to connect on LinkedIn and in his message to me, asked how I had overcome being an introvert to give my talk.  
 
 And while I understood the sentiment, I want to be clear: I didn’t overcome being an introvert in any way but have been on a very long and winding journey since autumn of 2016 that encompasses fundamentally understanding what it means to be introvert and embracing that. 

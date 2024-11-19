@@ -10,7 +10,6 @@ layout: layouts/post.njk
 permalink: posts/2020/04/smashing-sf-2019/index.html
 ---
 
-<p class="blog-post__date">15 April 2020</p>
 
 I find my perception of time to mind-boggling sometimes. Today is the 15th of April 2020 and when I look back at the last year, I look at how much has changed in my professional and personal life. It feels like yesterday and forever ago. I did not think I would be in this spot today, regardless of a pandemic raging or not, and I can pinpoint the exact start of this change in my life to the 15th of April 2019. 
 

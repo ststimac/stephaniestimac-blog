@@ -10,8 +10,6 @@ layout: layouts/post.njk
 permalink: posts/2020/01/inspiring-high-school-students-tech/index.html
 ---
 
-<p class="blog-post__date">17 February 2020</p>
-
 Nearly a year ago I reached out to my high school across the state about coming in and giving a talk about careers in tech. Due to conflicting schedules I had to reschedule a few times and after a few crazy months of travel to end my 2019, I finally got the trip on the calendar and headed over in January.
 
 ## Being visible as a woman in tech

@@ -8,8 +8,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-<p class="blog-post__date">19 November 2019</p>
-
 There isn't a day that goes by that I feel extremely privileged to do what I get to do for work. Last week, I flew out to Berlin for a few days to attend Beyond Tellerrand. My co-worker Aaron was speaking and running a workshop and I emceed the community focused session we've been running for the past few months, [The Web We Want](https://webwewant.fyi), in the evening on day one. 
 
 Despite technical issues with my laptop, for the second event in a row, the session went well and there was great conversation from our panel of judges. 

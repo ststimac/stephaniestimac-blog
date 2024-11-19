@@ -8,8 +8,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-<p class="blog-post__date">30 October 2019</p>
-
 I would say that I live an extremely privileged and comfortable life. The privilege from having a good paying career in a large tech company opened up the opportunity to live in a home, on much more land than you’d get in the city, 30 miles outside of downtown Seattle. 
 
 Though to some friends it feels as though I’m really far outside the city, I’m technically a part of the Seattle Metropolitan Area and despite being in a rural area, I’m close enough to Redmond and Bellevue that something like mobile phone and data coverage shouldn’t be an issue. 

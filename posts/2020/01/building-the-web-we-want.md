@@ -10,8 +10,6 @@ layout: layouts/post.njk
 permalink: posts/2020/01/pushing-the-web-platform-forward/index.html
 ---
 
-<p class="blog-post__date">14 January 2020</p>
-
 Last year I joined my co-worker [Aaron Gustafson](https://twitter.com/AaronGustafson) in kicking off an initiative called [The Web We Want](https://webwewant.fyi) that focuses on identifying pain points or gaps in the web platform as identified by developers and web designers. 
 
 This project has become something I'm incredibly passionate about. It's a cross-platform effort with many browser vendors involved and looking at the problems that have been submitted so far. 

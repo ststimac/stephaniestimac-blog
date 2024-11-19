@@ -8,7 +8,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-<p class="blog-post__date">29 December 2019</p>
 
 This is a post about how I built my bullet journal demo that you can find over [here](https://stephaniestimac.com/css-grid-experiments/project6/). 
 
