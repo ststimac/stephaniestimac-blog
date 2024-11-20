@@ -13,7 +13,7 @@ permalink: posts/2024/11/public-speaking-tips/index.html
 
 Six years ago the thought of standing on a stage to give a talk made me physically ill. Six years later and 30 times on stage giving a talk, it still actually does make me physically ill but not to such a severe degree that it did then. 
 
-One of my friends is back in school and had to give a presentation to her professors, so she asked me for some tips. Also, in case anyone needs proof that you can overcome your fear of public speaking, I once dropped out of a class at the start of the semester in university because the thought of it caused me such severe anxiety. 
+One of my friends is back in school and had to give a presentation to her professors, so she asked me for some tips. Also, in case anyone needs proof that you can overcome your fear of public speaking, I once dropped out of a class at the start of the semester in university because the thought of having to do the final presentation caused me such severe anxiety. Eek.
 
 Nerves are actually a good thing - it means you care. Lean into the nerves but also learn how to manage them. But there's also beta blockers if you really need the extra help. 
 
