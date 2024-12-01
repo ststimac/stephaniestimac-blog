@@ -353,7 +353,8 @@ nav {
 }
 
 .intro {
-  color: var(--medgray);
+  color: var(--darkgray);
+  padding: 1.2rem 0;
 }
 
 .intro h2 {
