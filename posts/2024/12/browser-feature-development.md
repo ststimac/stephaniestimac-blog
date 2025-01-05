@@ -82,4 +82,4 @@ There are so many benefits to hiring someone to work on The Web in whatever way 
 
 And that's good for the overall health of the web ecosystem. 
 
-_Note: Thank you to my colleague [Brian Kardell](https://bkardell.com/) for reviewing & editng this post, which had been taking up a lot of space in my mind for a long while._
+_Note: Thank you to my colleague [Brian Kardell](https://bkardell.com/) for reviewing & editing this post, which had been taking up a lot of space in my mind for a long while._
