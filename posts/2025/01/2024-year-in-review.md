@@ -11,7 +11,7 @@ images:
 permalink: posts/2025/01/2024-year-in-review/index.html
 ---
 
-I don't know what I wanted out of 2024, and I think that's okay. I started the year focused on trying to figure out the next thing for me career-wise. I did some freelance design work, even designed a whole app for someone, and continued with the interviews but every time a company asked for a presentation and 6 rounds, I bowed out. Hiring in tech needs to be revamped from the ground up in my opinion, but that's a whole other post. Things started to fall into place. 
+I don't know what I wanted out of 2024, and I think that's okay. I started the year focused on trying to figure out the next thing for me career-wise. I did some freelance design work, even designed a whole app for someone, and continued with the interviews but every time a company asked for a presentation and 6 rounds, I bowed out. Hiring in tech needs to be revamped from the ground up in my opinion, but that's a whole other post. Once I started saying no to thing, life started to fall into place. 
 
 Living in another country that first year is hard. I had moments of joy, severe moments of grief for my life in Seattle, moments of loneliness as I try to find a community. It was a big year and I gave what I was capable of giving. 
 
