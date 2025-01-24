@@ -47,7 +47,7 @@ I enjoy working on the web platform and helping to coordinate projects that  get
 The burns from 2023 are starting to fade but I am left with some lingering scars that are taking longer to fade. I am acutely aware of these things and am able to connect the dots and ponder things. 
 
 ## Shifting Routine
-I pretty much said goodbye to Twitter (or X whatever the hell it is now) in the autumn. After a year and a half long harassment campaign on the platform, and then Elon Musk taking over, I just couldn't continue. The content being pushed into my timeline drove me away. I started to engage less and less, and I saw less and less of the people I wanted to see in my timeline. It was bringing me anxiety and my mental health was noticeably worse whenever I'd scroll. I'd find myself scrolling without seeing anything that would actually want to me to remain on the site. So I downloaded my data and locked down my account.  
+I pretty much said goodbye to Twitter (or X whatever the hell it is now) in the autumn. After a year and a half long harassment campaign on the platform, and then Elon Musk taking over, I just couldn't continue. The content being pushed into my timeline drove me away. I started to engage less and less, and I saw less and less of the people I wanted to see in my timeline. It was bringing me anxiety and my mental health was noticeably worse whenever I'd scroll. I'd find myself scrolling without seeing anything that would actually want me to remain on the site. So I downloaded my data and locked down my account.  
 
 After doing that I relaunched https://designfordevelopersbook.com with a completely new re-design. Built another site I haven't pushed live yet and read 15 books. 
 
