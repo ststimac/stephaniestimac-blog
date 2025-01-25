@@ -44,7 +44,7 @@ Living in another country that first year is hard. I had moments of joy, severe 
 
 I enjoy working on the web platform and helping to coordinate projects that  get new features shipped. It feels familiar too because I end up encountering so many people I worked with on Microsoft Edge. I've also been getting to use my design & front-end development knowledge recently and I love that. 
 
-The burns from 2023 are starting to fade but I am left with some lingering scars that are taking longer to fade. I am acutely aware of these things and am able to connect the dots and ponder things. 
+The burns from 2023 are starting to heal but I am left with some lingering scars that are taking longer to fade. I am acutely aware of these things and am able to connect the dots and ponder things. 
 
 ## Shifting Routine
 I pretty much said goodbye to Twitter (or X whatever the hell it is now) in the autumn. After a year and a half long harassment campaign on the platform, and then Elon Musk taking over, I just couldn't continue. The content being pushed into my timeline drove me away. I started to engage less and less, and I saw less and less of the people I wanted to see in my timeline. It was bringing me anxiety and my mental health was noticeably worse whenever I'd scroll. I'd find myself scrolling without seeing anything that would actually want me to remain on the site. So I downloaded my data and locked down my account.  
