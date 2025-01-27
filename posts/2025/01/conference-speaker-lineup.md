@@ -7,7 +7,7 @@ tags:
   - diversity
 layout: layouts/post.njk
 images:
-    thumb: /img/2025/
+    thumb: /img/2025/2025-01-conference-lineup.webp
 permalink: posts/2025/1/conference-speaker-line-ups/index.html
 ---
 
