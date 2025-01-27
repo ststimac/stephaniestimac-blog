@@ -21,4 +21,4 @@ I would also beg that you not take your demographic information from things like
 
 Ask your connections or research similar events. **Do the work.**   
 
-But for all that is holy, do not respond with "there are no women in this field" because there absolutely are and that is poor excuse not based in reality.
+But for all that is holy, do not respond with "there are no women in this field" because there absolutely are and that is a poor excuse not based in reality.
