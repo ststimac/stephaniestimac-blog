@@ -7,7 +7,7 @@ tags:
   - ethics
 layout: layouts/post.njk
 images:
-    thumb: /img/2025/meta-ai.webp
+    thumb: /img/2025/metaai.webp
 permalink: posts/2025/03/ethical-ai/index.html
 ---
 

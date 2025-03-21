@@ -141,7 +141,8 @@ blockquote {
 }
 
 p,
-.tmpl-post li {
+.tmpl-post li,
+hr {
   max-width: 42rem;
   width: 100%;
 }
