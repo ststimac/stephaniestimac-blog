@@ -9,8 +9,7 @@
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://use.typekit.net/njd7atr.css">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://use.typekit.net/njd7atr.css">
     <link rel="icon" href="/img/favicon.svg" type="image/svg">
     
   </head>
@@ -29,18 +28,21 @@
       </div>
     </header>
 
-    <div class="container grid--home">
+    <div class="container">
         <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
             {{ content | safe }}
         </main>
-        <div class="sidebar">
-          <div class="sidebar-book">
-            <a href="https://www.manning.com/books/design-for-developers?utm_source=stimac&utm_medium=affiliate&utm_campaign=book_stimac_design_4_19_22&a_aid=stimac&a_bid=5f6ba095"><img src="https://blog.stephaniestimac.com/img/designfordevelopers-ad.webp" alt="Text that reads 'Join 3000+ developers who are leveling up their design skills today' followed by the book cover for Design for Developers" /></a>
+
+          <!--- Old Sidebar 
+          <div class="sidebar">
+            <div class="sidebar-book">
+              <a href="https://www.manning.com/books/design-for-developers?utm_source=stimac&utm_medium=affiliate&utm_campaign=book_stimac_design_4_19_22&a_aid=stimac&a_bid=5f6ba095"><img src="https://blog.stephaniestimac.com/img/designfordevelopers-ad.webp" alt="Text that reads 'Join 3000+ developers who are leveling up their design skills today' followed by the book cover for Design for Developers" /></a>
+            </div>
+            <div class="carbon-ads">
+            <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7ICKQM&placement=stephaniestimaccom" id="_carbonads_js"></script>
+            </div>
           </div>
-          <div class="carbon-ads">
-          <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7ICKQM&placement=stephaniestimaccom" id="_carbonads_js"></script>
-          </div>
-      </div>
+        -->
     </div>
 
     <!-- Current page: {{ page.url | url }} -->

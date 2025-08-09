@@ -2,21 +2,27 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
+{% set thumb = images.thumb or '/img/default.jpg' %}
 
 <style>
 .intro {display:none;}
 </style>
 
+<img class="post-hero" src="{{ images.thumb }}" alt="{{ title }}">
+<div class="post-info">
+    <div class="blog-post__date">
+   <p>Published on</p>
+   <p>{{ page.date | readableDate }}</p> 
+    </div>
+</div>
+
+
 <div class="blog-post">
 <h1>{{ title }}</h1>
-
-<div class="blog-post__date">
-{{ page.date | readableDate }}
-</div>
 
 {{ content | safe }}
 
 </div>
 
-<p><a href="{{ '/' | url }}">← Home</a></p>
+<div class="post-back"><a href="{{ '/' | url }}">← Home</a></div>
 
