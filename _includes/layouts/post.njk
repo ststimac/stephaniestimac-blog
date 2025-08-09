@@ -2,23 +2,75 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
-{% set thumb = images.thumb or '/img/default.jpg' %}
+{% set backgroundImages = ['/img/tile-background.jpg', '/img/tile-background-2.jpg', '/img/tile-background-3.jpg'] %}
+{% set randomIndex = range(0, 3) | random %}
+{% set heroBackground = backgroundImages[randomIndex] %}
 
 <style>
 .intro {display:none;}
+.blog-hero {
+    position: relative;
+    background-image: url('{{ heroBackground }}');
+    background-size: cover;
+    background-position: center;
+    max-width: 96rem;
+    width: 100%;
+    min-height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    border-radius: 12px;
+}
+
+::view-transition-old(root) {
+    z-index: 2;
+}
+
+.blog-hero::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.4); /* Dark overlay for text readability */
+    z-index: 1;
+    view-transition-name: var(--vt);
+}
+
+.blog-hero h1 {
+    position: relative;
+    z-index: 2;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 2rem;
+}
 </style>
 
-<img class="post-hero" src="{{ images.thumb }}" alt="{{ title }}">
+<div class="blog-hero" style="--vt: post-{{ page.url | slugify }};">
+    <h1>{{ title }}</h1>
+</div>
 <div class="post-info">
     <div class="blog-post__date">
-   <p>Published on</p>
-   <p>{{ page.date | readableDate }}</p> 
+        <p>Published on</p>
+        <p>{{ page.date | readableDate }}</p> 
+    </div>
+    <div class="blog-post__tags">
+        <p>Tags</p>
+        {% for tag in tags %}
+            {%- if tag != "posts" -%}
+            {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+            <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
+            {%- endif -%}
+        {% endfor %}
     </div>
 </div>
 
 
+
 <div class="blog-post">
-<h1>{{ title }}</h1>
 
 {{ content | safe }}
 
