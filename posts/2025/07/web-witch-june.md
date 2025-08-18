@@ -59,3 +59,4 @@ I have read 32 out of the 40 books I wanted to read this year. So I will probabl
 
 ## Other Bits
 
+It's been a bumpy few months but I'm starting to feel a little better as the second trimester approaches. I really was not prepared for the way the first trimester of pregnancy would wipe me out.
