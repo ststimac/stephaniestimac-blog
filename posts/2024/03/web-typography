@@ -1,0 +1,66 @@
+---
+title: What's New in Web Typography & CSS in 2024
+description: A few thoughts on how sh*t it is to try and name things
+date: 2024-03-20
+tags:
+  - css 
+  - typography
+layout: layouts/post.njk
+images:
+    thumb: /img/2024/
+permalink: posts/2024/03/2024-typography/index.html
+---
+
+Typography is one of the simplest yet most powerful design choices we have when building a website. From sans serif to serif or slab serif to script. It can change the underlying message and tone of website with a switch of the type style. 
+
+In the past year, browser vendors have introduced new features that allow not only greater design control over typography, but features that help create a better experience for some Asian languages. 
+
+## CSS `initial-letter`
+Reminiscent of medieval illuminated manuscripts, the initial-letter property brings more control over placement of dropped, raised and sunken initial letters. It can be applied to the ‘::first-letter’ pseudo-element, ‘inside’-positioned ‘::marker’ pseudo-elements, and to inline-level boxes placed at the start of the first line. 
+
+The property allows you to control the size of the initial letter, which is equal to the number of lines it occupies. This value can’t be less than one. And it allows you to define the number of lines the initial letter should sink. 
+
+![alt: Our first letter has a font size of 2lh applied](/img/2023/initial-letter/2lh.png)
+
+You can get some really lovely effects with it. Read a more in depth tutorial from [my post last year](https://blog.stephaniestimac.com/posts/2023/1/css-initial-letter/).ß
+
+Other CSS properties can be added to the `::first-letter` pseudo-element to create more stylized initial letters. You can even style it so the initial letter is completely adjacent to the paragraph text. 
+
+## Better text wrapping with ‘text-wrap: balance’ and ‘text-wrap: pretty’
+
+### `text-wrap: balance`
+There is nothing more frustrating when you’ve got a headline that’s just long enough that one word wraps to the next line. Suddenly the typography is visually unbalanced and there previously wasn’t a really good way to fix this. 
+
+In my experience, playing with the width of the headline was the best way to solve issues but this isn’t scalable or easy to maintain, particularly on content heavy sites that have many headlines. The new CSS declaration `text-wrap:balance` will fix the visual balance of your headings. 
+
+```
+h1,h2,h3,h4,h5,h6 {
+  text-wrap: balance;
+}
+```
+
+This value lets the browser handle the visual balancing, so you don’t have to but comes with a few rules. 
+
+Your text should have a width applied to it for balancing to work, and ‘text-wrap: balance’ only works on six lines or less. The browser actually counts the number of lines there are based on the width of the content and chooses to apply ‘text-wrap: balance’ if there are less than six lines. If you were to change the width of the text so that there are more than six lines, ‘text-wrap: balance;’ will apply. 
+
+Text balancing generally doesn’t need to be used on body text though, and due to the line restriction, should be used on headings. This is where the property and value is most impactful. 
+
+Due to the way the browser calculates the visual balance, you should only apply the CSS property on the lines of text you want to directly affect. If you were to apply the property on all of your layout, you’re sending useless bytes. Best to keep to your different heading levels. 
+
+`Text-wrap: balance;` is supported in Chrome, Edge, Firefox, and Opera. Support has not landed in Safari.
+
+### `text-wrap: pretty`
+While ‘text-wrap: balance;’ should be used on headlines, ‘text-wrap: pretty;’ can and should be used on paragraphs. It’s main purpose is prevent so-called typographic orphans, one word that wraps to its own single line. 
+
+The `text-wrap` declaration is still experimental, and is listed as such on [MDN]( https://developer.mozilla.org/en-US/docs/Web/CSS/text-wrap). It is supported in Chrome, Microsoft Edge, and Opera but currently has no support in Safari or Firefox. 
+
+Both properties will help bring better balanced typography to the web once fully implemented. 
+
+## CSS `cap` and `rcap` font units 
+
+CSS has even more sizing units to choose from now with `cap` and `rcap`. The `cap` unit is equal to the height of the cap-height (height of capital letters) of the [first available font]( https://www.w3.org/TR/css-fonts-3/#first-available-font). 
+
+`rcap` is equal to the value of the cap unit on the root element. 
+
+These are both font relative units like `em` and `rem` and provide another way to create easily scalable layouts and vertical rhythm on the page.
+

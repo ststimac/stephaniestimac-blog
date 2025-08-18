@@ -4,10 +4,21 @@ templateClass: tmpl-home
 description: The technical and design blog of Stephanie Stimac covering product, web platform and design
 ---
 
-    <div class="intro">
+    <div class="intro container">
       <h1>Latest on the blog</h1>
       <h2>I write about the web, design, product management and little bits of life</h2>
     </div>
 
-
-{{ content | safe }}
+    <div class="container grid--home">
+        <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+            {{ content | safe }}
+        </main>
+        <div class="sidebar" id="home-sidebar">
+          <div class="sidebar-book">
+            <a href="https://www.manning.com/books/design-for-developers?utm_source=stimac&utm_medium=affiliate&utm_campaign=book_stimac_design_4_19_22&a_aid=stimac&a_bid=5f6ba095"><img class="side-ad" src="/img/design-for-developers-ad-03.svg" alt="A hand holding a book titled "design for developers" and text below it that reads 'Join over 4000 developers level up their design skills today'" /></a>
+          </div>
+          <div class="carbon-ads">
+          <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7ICKQM&placement=stephaniestimaccom" id="_carbonads_js"></script>
+          </div>
+        </div>
+    </div>
