@@ -19,11 +19,11 @@
   <body>
     <header>
       <div class="container header-alignment">
-        <p class="h1-small"><a href="https://blog.stephaniestimac.com/">{{ metadata.title }}</a></p>
+        <a href="https://blog.stephaniestimac.com/"><img class="blog-icon" src="/img/blog-web-witch-column.svg" alt="The Web Witch's Blog"></a>
         <nav>
           <ul class="nav">
             <li class="nav-item"><a href="https://stephaniestimac.com/">Portfolio</a></li>
-            <li class="nav-item"><a href="https://www.manning.com/books/design-for-developers?utm_source=stimac&utm_medium=affiliate&utm_campaign=book_stimac_design_4_19_22&a_aid=stimac&a_bid=5f6ba095">Design for Developers</a></li>
+            <li class="nav-item"><a href="https://www.manning.com/books/design-for-developers?utm_source=stimac&utm_medium=affiliate&utm_campaign=book_stimac_design_4_19_22&a_aid=stimac&a_bid=5f6ba095" target="_blank">Design for Developers</a></li>
             <li class="nav-item"><a href="https://webwitchweekly.beehiiv.com/">Newsletter</a></li>
             <li class="nav-item"><a href="mailto:steph.stimac@gmail.com">Contact</a></li>
           </ul>
@@ -31,22 +31,7 @@
       </div>
     </header>
 
-    <div class="container">
-        <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
-            {{ content | safe }}
-        </main>
-
-          <!--- Old Sidebar 
-          <div class="sidebar">
-            <div class="sidebar-book">
-              <a href="https://www.manning.com/books/design-for-developers?utm_source=stimac&utm_medium=affiliate&utm_campaign=book_stimac_design_4_19_22&a_aid=stimac&a_bid=5f6ba095"><img src="https://blog.stephaniestimac.com/img/designfordevelopers-ad.webp" alt="Text that reads 'Join 3000+ developers who are leveling up their design skills today' followed by the book cover for Design for Developers" /></a>
-            </div>
-            <div class="carbon-ads">
-            <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7ICKQM&placement=stephaniestimaccom" id="_carbonads_js"></script>
-            </div>
-          </div>
-        -->
-    </div>
+    {{ content | safe }}
 
     <!-- Current page: {{ page.url | url }} -->
 

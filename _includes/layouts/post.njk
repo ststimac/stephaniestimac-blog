@@ -23,9 +23,6 @@ templateClass: tmpl-post
     border-radius: 12px;
 }
 
-::view-transition-old(root) {
-    z-index: 2;
-}
 
 .blog-hero::before {
     content: "";
@@ -49,6 +46,8 @@ templateClass: tmpl-post
 }
 </style>
 
+<main{% if templateClass %} class="{{ templateClass }} container"{% endif %}>
+
 <div class="blog-hero" style="--vt: post-{{ page.url | slugify }};">
     <h1>{{ title }}</h1>
 </div>
@@ -68,8 +67,6 @@ templateClass: tmpl-post
     </div>
 </div>
 
-
-
 <div class="blog-post">
 
 {{ content | safe }}
@@ -77,4 +74,4 @@ templateClass: tmpl-post
 </div>
 
 <div class="post-back"><a href="{{ '/' | url }}">← Home</a></div>
-
+ </main>
