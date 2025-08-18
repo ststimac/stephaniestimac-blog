@@ -53,7 +53,7 @@ body {
   max-width: 75rem;
   width: 100%;
   margin: 0 auto;
-  padding: 1rem 0;
+  padding: 1rem;
 }
 
 header {
@@ -1010,6 +1010,10 @@ footer .social-links a:hover {
 
   .affiliate {
     padding-bottom: 1.2rem;
+  }
+
+  .blog-post {
+    max-width: 90%;
   }
 
 }
