@@ -3,6 +3,7 @@
   src: url("/fonts/TAN-PEARL.woff2") format("woff2"),
        url("/fonts/TAN-PEARL.woff") format("woff");
   font-weight: normal;
+  font-display: swap;
 }
 
 @view-transition {
