@@ -11,7 +11,7 @@ images:
 permalink: posts/2025/08/the-loss-of-curating/index.html
 ---
 
-I've been trying to make an effort to more intentionally pick something to watch when the weekend roles around. While I've enjoyed the Grey's Anatomy binge I started during this pregnancy, it feels like a work week ritual -- something to put on in the background or pay half attention to. On the weekend, I've had the desire to create a different kind of ritual, one that feels more deliberate.
+I've been trying to make an effort to more intentionally pick something to watch when the weekend rolls around. While I've enjoyed the Grey's Anatomy binge I started during this pregnancy, it feels like a work week ritual -- something to put on in the background or pay half attention to. On the weekend, I've had the desire to create a different kind of ritual, one that feels more deliberate.
 
 After a nice evening out at the pub and a short walk along the river, we headed home and I began the usual pursuit of something to watch. I tried our four different streaming services, growing more and more frustrated. There were no new films we hadn't seen, and while I enjoy, actually prefer if we're being honest, films from the 80s and 90s, the selection on the apps has been the same for ages. 
 
