@@ -95,10 +95,6 @@ h4 {
   font-style: italic;
 }
 
-p {
-  font-size: 1.3rem;
-}
-
 * + h1,
 * + h2,
 * + h3
@@ -237,7 +233,8 @@ img.post-hero {
   margin-top: 3.5rem;
 }
 
-  .blog-post p {
+  .blog-post :is(p, ul) {
+    font-size: 1.3rem;
     font-weight: 200;
   }
 
