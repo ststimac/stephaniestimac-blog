@@ -21,7 +21,8 @@ Over the last two months I've felt a noticeable decline in my mental health. I a
 These things plus what I’m sure is a flood of hormones has left me feeling rough. In the last two weeks, I seem to have hit a breaking point. I’ve been on my phone bouncing between platforms, scrolling, and could actually feel myself start to mentally degrade while scrolling. Something needed to change, and I felt like the easiest thing for me to tackle right now is the social media bit.  
 
 ## Small changes for maximum impact 
-The first change I’ve made is leaving my phone upstairs and out of sight after work. This isn’t always possible but leaving it somewhere that is not easily accessible has been a key step in trying to break my digital dependence.  
+The first change I’ve made is leaving my phone upstairs and out of sight after work. This isn’t always possible but leaving it somewhere that is not easily accessible has been a key step in trying to break my digital dependence. 
+ 
 The worst bit for me is that in the evening when we’re watching TV, I get an urge to reach for my phone and scroll. Like I have trained myself to not focus on what I’m watching. 
 
 The next change I’ve made is trying to be unavailable unless it’s an emergency or time-sensitive. It’s hard sometimes because the family chat seems to start popping off around 7:00 PM my time. But not every text message needs to be responded to right away (unless it’s my husband because he’s usually asking if I want something while he’s out 😊). 
