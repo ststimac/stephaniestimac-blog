@@ -3,7 +3,7 @@ title: ChatGPT Atlas isn't competing against other browsers
 description: A note on CEOs who don't understand browser development and innovation in the browser space
 date: 2025-10-22
 tags:
-  - web platform
+  - browsers
   - notes
 layout: layouts/post.njk
 images:
