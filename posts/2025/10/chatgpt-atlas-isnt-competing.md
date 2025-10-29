@@ -25,3 +25,5 @@ Without the web platform, you wouldn't have been able to loudly proclaim you hav
 
 **Related Reading**
 - [You can pay for that: How web browser features get built](https://blog.stephaniestimac.com/posts/2024/12/how-browser-features-are-built/)
+
+__Note: These are my personal thoughts, shared from my own experience in the browser space and do not necessarily reflect those of my employer.__
