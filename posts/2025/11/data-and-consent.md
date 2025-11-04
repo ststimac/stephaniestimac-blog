@@ -23,7 +23,7 @@ I might be American and US laws allow you to add people to your mailing list wit
 
 All this to say, even if your country's laws allow you to sign people up for whatever it is you're sending, doing so is spammy and acquiring consent goes a long way in building brand trust. 
 
-And despite [what some men](https://www.threads.com/@davegershman/post/DQnPpgTDKXy?xmt=AQF0_IUSISdQ3Lm_hJGqOly1mYfxBDZj-PcYb3BRoz3ruQ) might think, wanting consent does not make one difficult to work with. It means you’re insisting on mutual respect, the foundation of trust and integrity, which opens the doors to more enjoyable and creative collaborations. 
+And despite [what some men](https://www.threads.com/@davegershman/post/DQnPpgTDKXy?xmt=AQF0_IUSISdQ3Lm_hJGqOly1mYfxBDZj-PcYb3BRoz3ruQ) might think, wanting consent does not make one difficult to work with. It means you’re insisting on mutual respect, the foundation of trust and integrity, which opens the doors to more enjoyable, creative and long-lasting collaborations. 
 
 
 
