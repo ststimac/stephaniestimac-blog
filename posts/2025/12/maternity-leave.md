@@ -33,7 +33,7 @@ Tailbone pain has been a constant battle that has sent me into more than one emo
 
 In these final few weeks, I've had constant heartburn, restless legs and shortness of breath. Walking up the stairs leaves me breathless. The restless legs sometimes give me anxiety and are their own special kind of hell. 
 
-I'm exhausted, unable to sit comfortably, brain fog and forgetfulness is at an unprecedented level even by my standards. I don't know whether it's related or not but a crown on a back molar cracked and fell off. No one warns you about the havoc pregnancy can wreck on your teeth.
+I'm exhausted, unable to sit comfortably, brain fog and forgetfulness are at an unprecedented level even by my standards. I don't know whether it's related or not but a crown on a back molar cracked and fell off. No one warns you about the havoc pregnancy can wreck on your teeth.
 
 At moments I feel like I'm hanging on by a thread. The whole experience has been isolating, especially because I am not close to friends or family (they're all mostly across the pond). Then throw your normal life admin on top of this experience, it's been difficult. 
 
