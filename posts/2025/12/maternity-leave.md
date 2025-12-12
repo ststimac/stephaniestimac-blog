@@ -31,7 +31,7 @@ I was a fairly active person before this, walking into town, taking the dog on m
 
 Tailbone pain has been a constant battle that has sent me into more than one emotional breakdown because the pain has been so debilitating. Baths and paracetamol have been staples and essential (and frequent). If I do too much around the house, the tailbone pain hits. If I go for too long of a walk, if I stand for too long in the kitchen, it is there and it is excruciating. 
 
-In these final few weeks, I've had constant heartburn, restless legs and shortness of breath. Walking up the stairs leaves me breathless. The restless legs sometimes give me anxiety and are there own special kind of hell. 
+In these final few weeks, I've had constant heartburn, restless legs and shortness of breath. Walking up the stairs leaves me breathless. The restless legs sometimes give me anxiety and are their own special kind of hell. 
 
 I'm exhausted, unable to sit comfortably, brain fog and forgetfulness is at an unprecedented level even by my standards. I don't know whether it's related or not but a crown on a back molar cracked and fell off. No one warns you about the havoc pregnancy can wreck on your teeth.
 
