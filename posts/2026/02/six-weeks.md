@@ -17,7 +17,7 @@ Six weeks ago I gave birth to my daughter. In some ways it didn't go according t
 
 I had hoped to have a water birth. I imagined arriving to the birth unit and getting in the tub, but if that didn't feel okay then I would get an epidural because my pain tolerance is low and my fear of labor pain was intense. I didn't want to feel it. 
 
-But we arrived to triage at 8:00 PM on my due date, 14 hours of intensifying contractions. We were sure we would be sent home because I had been timing my contractions and they had gotten further apart as the day went on, but I was in so much pain Jhey lied to triage when he was on the phone with them and fudged the contraction timings. 
+But we arrived to triage at 8:00 PM on my due date, after 14 hours of intensifying contractions. We were sure we would be sent home because I had been timing my contractions and they had gotten further apart as the day went on, but I was in so much pain Jhey lied to triage when he was on the phone with them and fudged the contraction timings. 
 
 Good thing he did because after sitting in the waiting room and crying out in pain, they whisked me back and told me I was 4 cm and in active labor. I wouldn't be going home. 
 
