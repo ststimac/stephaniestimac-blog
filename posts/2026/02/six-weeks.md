@@ -17,11 +17,11 @@ Six weeks ago I gave birth to my daughter. In some ways it didn't go according t
 
 I had hoped to have a water birth. I imagined arriving to the birth unit and getting in the tub, but if that didn't feel okay then I would get an epidural because my pain tolerance is low and my fear of labor pain was intense. I didn't want to feel it. 
 
-But we arrived to triage at 8:00 PM on my due date, after 14 hours of intensifying contractions. We were sure we would be sent home because I had been timing my contractions and they had gotten further apart as the day went on, but I was in so much pain Jhey lied to triage when he was on the phone with them and fudged the contraction timings. 
+But we arrived to triage at 8:00 PM on my due date, after 14 hours of intensifying contractions. We were sure we would be sent home because I had been timing my contractions and they had become further apart as the day went on, but I was in so much pain, Jhey lied to triage when he was on the phone with them and fudged the contraction timings. 
 
-Good thing he did because after sitting in the waiting room and crying out in pain, they whisked me back and told me I was 4 cm and in active labor. I wouldn't be going home. 
+Good thing he did because after sitting in the waiting room and crying out in pain, they whisked me back, did a check and told me I was 4 cm and in active labor. I wouldn't be going home. 
 
-We went off to the birthing suite and I didn't want to move to one with a tub. I was glued to the bed with gas and air asking for an epidural. I never got an epidural. I still am not sure why, but my guess is because of how fast my labor progressed. Jhey was also worried I wouldn't be able to sit still for it. He's probably right. 
+We went off to the birthing suite, and I didn't want to move to one with a tub. I was glued to the bed with gas and air asking for an epidural. I never got an epidural. I still am not sure why, but my guess is because of how fast my labor progressed. Jhey was also worried I wouldn't be able to sit still for it. He's probably right. 
 
 6 hours later at 2:05 AM, Chloe arrived into the world. 
 
