@@ -1,5 +1,5 @@
 ---
-title: Returning to Work After Maternity Leave: Day 1 as a New Mom and Remote Tech Worker
+title: 'Returning to Work After Maternity Leave: Day 1 as a New Mom and Remote Tech Worker'
 description: Blogging about how the transition from maternity leave back into work as remote worker in tech is going.
 date: 2026-06-01
 tags:
