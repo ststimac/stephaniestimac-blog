@@ -12,7 +12,7 @@ templateClass: tmpl-post
 
 <main{% if templateClass %} class="{{ templateClass }} container"{% endif %}>
 
-<div class="blog-hero" style="--vt: post-{{ page.url | slugify }}; --vt-title: title-{{ page.url | slugify }};">
+<div class="blog-hero" style="--vt: post-{{ page.url | slugify }};">
     <h1>{{ title }}</h1>
 </div>
 <div class="post-info">

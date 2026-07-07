@@ -86,5 +86,36 @@
           <div class="copyright">&copy; 2026. Stephanie Stimac - All rights reserved.</div>
         </div>
     </footer>
+    <script>
+      function activateTileTransition(vt) {
+        if (!vt) return;
+        document.querySelectorAll('.postlist-item').forEach((tile) => {
+          tile.style.viewTransitionName = 'none';
+        });
+        const item = [...document.querySelectorAll('.postlist-item')].find(
+          (el) => el.style.getPropertyValue('--vt').trim() === vt
+        );
+        if (item) item.style.viewTransitionName = vt;
+      }
+
+      document.addEventListener('click', (event) => {
+        const link = event.target.closest('a.postlist-link');
+        if (!link) return;
+
+        const item = link.closest('.postlist-item');
+        if (!item) return;
+
+        const vt = item.style.getPropertyValue('--vt').trim();
+        if (vt) {
+          sessionStorage.setItem('active-vt', vt);
+          activateTileTransition(vt);
+        }
+      }, { capture: true });
+
+      window.addEventListener('pagereveal', (event) => {
+        if (!event.viewTransition) return;
+        activateTileTransition(sessionStorage.getItem('active-vt'));
+      });
+    </script>
   </body>
 </html>
