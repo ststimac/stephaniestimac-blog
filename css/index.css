@@ -3,11 +3,66 @@
   src: url("/fonts/TAN-PEARL.woff2") format("woff2"),
        url("/fonts/TAN-PEARL.woff") format("woff");
   font-weight: normal;
-  font-display: optional;
+  font-display: swap;
 }
 
 @view-transition {
   navigation: auto;
+}
+
+/* Persistent header across navigations */
+header {
+  view-transition-name: site-header;
+}
+
+::view-transition-old(site-header),
+::view-transition-new(site-header) {
+  animation: none;
+  mix-blend-mode: normal;
+  height: 100%;
+  overflow: clip;
+}
+
+/* Page-level transition: slide + fade */
+::view-transition-old(root) {
+  animation: 0.45s cubic-bezier(0.4, 0, 1, 1) both vt-page-out;
+}
+
+::view-transition-new(root) {
+  animation: 0.55s cubic-bezier(0, 0, 0.2, 1) both vt-page-in;
+}
+
+@keyframes vt-page-out {
+  to {
+    opacity: 0;
+    transform: scale(0.97) translateY(-10px);
+  }
+}
+
+@keyframes vt-page-in {
+  from {
+    opacity: 0;
+    transform: scale(1.02) translateY(24px);
+  }
+}
+
+/* Shared-element morphs (post tile → hero, title → h1) */
+::view-transition-group(*) {
+  animation-duration: 0.75s;
+  animation-timing-function: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+::view-transition-old(*),
+::view-transition-new(*) {
+  mix-blend-mode: normal;
+  height: 100%;
+  overflow: clip;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  @view-transition {
+    navigation: none;
+  }
 }
 
 
@@ -190,11 +245,39 @@ main {
 
 .blog-hero {
   position: relative;
+  background-size: cover;
+  background-position: center;
+  max-width: 96rem;
+  width: 100%;
+  min-height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  border-radius: 12px;
+  view-transition-name: var(--vt);
 }
 
-  .blog-hero h1 {
-    position: absolute;
-  }
+.blog-hero::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+  z-index: 1;
+}
+
+.blog-hero h1 {
+  position: relative;
+  z-index: 2;
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 2rem;
+  view-transition-name: var(--vt-title);
+}
 
 img.post-hero {
   max-width: 96rem;
@@ -405,7 +488,7 @@ nav {
 
 .nav a,
 .nav > .nav-item .nav-item-active a[href] {
-  color: var(--darkgrey);
+  color: var(--darkgray);
 }
 
 .nav-item {
@@ -513,6 +596,7 @@ nav {
   
   overflow: hidden;
   position: relative;
+  view-transition-name: var(--vt);
 }
 
 /* Tile hover experiment */
@@ -582,6 +666,7 @@ nav {
 .postlist-link {
   display: inline-block;
   padding: 0.25em 0;
+  view-transition-name: var(--vt-title);
 }
 
 .postlist-item-active .postlist-link {

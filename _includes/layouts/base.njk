@@ -8,9 +8,11 @@
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="preload" href="/fonts/TAN-PEARL.woff2" type="font/woff2" as="font" crossorigin="anonymous">
-    <link rel="preload" href="/fonts/TAN-PEARL.woff"  type="font/woff" as="font" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">    
+    <link rel="preload" href="{{ '/fonts/TAN-PEARL.woff2' | url }}" type="font/woff2" as="font" crossorigin="anonymous">
+    {% if heroBackground %}
+    <link rel="preload" href="{{ heroBackground | url }}" as="image">
+    {% endif %}
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
     <link rel="icon" href="/img/favicon.svg" type="image/svg">
     
   </head>

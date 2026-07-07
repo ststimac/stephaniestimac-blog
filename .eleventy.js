@@ -21,8 +21,6 @@ module.exports = function(eleventyConfig) {
 
   // Filter by post tags
   eleventyConfig.addFilter("filterPostsByTag", function(posts, tags) {
-    // return posts.filter(post => tags.length !== 0);
-    console.info({ posts, tags})
     return posts.filter(post => tags.every(t => post.data.tags?.includes(t)));
   });
 
@@ -37,9 +35,27 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
 
+  eleventyConfig.addGlobalData("eleventyComputed", {
+    heroBackground: (data) => {
+      if (data.layout !== "layouts/post.njk") return null;
+      const images = [
+        "/img/tile-background.jpg",
+        "/img/tile-background-2.jpg",
+        "/img/tile-background-3.jpg",
+      ];
+      const url = data.page?.url || "";
+      let hash = 0;
+      for (const char of url) {
+        hash = ((hash << 5) - hash + char.charCodeAt(0)) | 0;
+      }
+      return images[Math.abs(hash) % images.length];
+    },
+  });
+
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("fonts");
+  eleventyConfig.addPassthroughCopy("_headers");
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");

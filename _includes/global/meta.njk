@@ -2,7 +2,12 @@
 {% set pageDesc = '' %}
 {% set siteTitle = site.name %}
 {% set currentUrl = site.url + page.url %}
-{% set ogImage = site.url + images.thumb %}
+{% set defaultOgImage = site.url + '/img/tile-background.jpg' %}
+{% if images and images.thumb and images.thumb | length > 6 %}
+  {% set ogImage = site.url + images.thumb %}
+{% else %}
+  {% set ogImage = defaultOgImage %}
+{% endif %}
 
 {% if metaTitle %}
   {% set pageTitle = metaTitle %}
@@ -14,32 +19,22 @@
 
 <title>{{ pageTitle  }}</title>
 <link rel="canonical" href="{{ currentUrl }}" />
-<link rel="icon" href="../img/favicon.svg" type="image/svg">
 
-<meta name="image" property="og:image" content="{{ ogImage }}" />
-<meta name="description" property="og:description" content="{{ description }}" />
+<meta name="description" content="{% if metaDesc %}{{ metaDesc }}{% elif description %}{{ description }}{% else %}{{ site.shortDesc }}{% endif %}" />
 <meta property="og:site_name" content="{{ siteTitle }}" />
 <meta property="og:title" content="{{ pageTitle }}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ currentUrl }}" />
-
-{% if metaDesc %}
-  <meta name="description" content="{{ metaDesc }}" />
-  <meta property="og:description" content="{{ metaDesc }}" />
-{% endif %}
-
-{% if ogImage %}  
-  <meta property="og:image" content="{{ ogImage }}" />
-  <meta property="og:image:alt" content="Page image for {{ site.name }}" />
-  <meta name="twitter:image:alt" content="Page image for {{ site.name }}" />
-{% endif %}
+<meta property="og:description" content="{% if metaDesc %}{{ metaDesc }}{% elif description %}{{ description }}{% else %}{{ site.shortDesc }}{% endif %}" />
+<meta property="og:image" content="{{ ogImage }}" />
+<meta property="og:image:alt" content="Page image for {{ site.name }}" />
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@seaotta" />
 <meta name="twitter:title" content="{% if title %}{{ title }}{% else %}{{ site.title }}{% endif %}">
-<meta name="twitter:description" content="{% if description %}{{ description }}{% else %}{{ site.description }}{% endif %}">
-<meta name="twitter:url" content="{{ site.url}}{{ page.url }}">
-<meta name="twitter:image" content="{{ ogImage | url }}" />
+<meta name="twitter:description" content="{% if description %}{{ description }}{% else %}{{ site.shortDesc }}{% endif %}">
+<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+<meta name="twitter:image" content="{{ ogImage }}" />
+<meta name="twitter:image:alt" content="Page image for {{ site.name }}" />
 
-<meta name='ir-site-verification-token' value='-248335178'>
-
+<meta name="ir-site-verification-token" content="-248335178">

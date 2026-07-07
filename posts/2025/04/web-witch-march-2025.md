@@ -6,8 +6,6 @@ tags:
   - life
   - career
 layout: layouts/post.njk
-images:
-    thumb: /img/2025
 permalink: posts/2025/05/web-witch-april-2025/index.html
 ---
 
