@@ -333,6 +333,10 @@ img.post-hero {
     margin-top: .2rem;
   }
 
+  .blog-post img {
+    max-width: max-content;
+  }
+
 .post-back {
   display: flex;
   width: 90%;
