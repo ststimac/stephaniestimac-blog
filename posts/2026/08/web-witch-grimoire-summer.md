@@ -1,12 +1,14 @@
 ---
 title: "Web Witch's Grimoire: Summer 2026"
-description:
+description: Recapping summer 2026
 date: 2026-08-25
 tags:
   - life
   - career
 layout: layouts/post.njk
-permalink: posts/2025/05/web-witch-summer-2026/index.html
+images:
+    thumb: /img/2026/08/summer-2026.webp
+permalink: posts/2025/08/web-witch-summer-2026/index.html
 ---
 
 The year flies by when you're postpartum, sleep-deprived and your little bubba is suddenly on the move and making developmental leaps. Time is this sort of weird compressed experience, not dissimilar to the way I felt about COVID and 2020 (wasn't that just yestersday? No indeed it was not, it was 6 years ago). And I'm a bit discombobulated as September is upon us. Budget planning at work? Didn't I just do budget planning for 2026? 
